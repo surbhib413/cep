@@ -1,0 +1,96 @@
+.headerPaper {
+  height: 100%;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+  display: flex;
+  flex-direction: column;
+  .radioLabel {
+    font-weight: bolder;
+    margin-bottom: 0px;
+    font-size: 14px;
+    @media (max-width: 600px) {
+      font-size: 13px;
+    }
+  }
+
+  .virtualRadioBtnText {
+    margin-left: 35px;
+    width: 440px;
+    font-size: 14px;
+    @media (max-width: 600px) {
+      width: 246px;
+      font-size: 13px;
+    }
+  }
+  .physicalRadioBtnText {
+    margin-left: 35px;
+    width: 415px;
+    font-size: 14px;
+    @media (max-width: 600px) {
+      width: 256px;
+      font-size: 13px;
+    }
+  }
+
+  .cardStyle {
+    margin: 32px 0 0 0;
+    padding: 24px 16px;
+    border-radius: 4px;
+    box-shadow: 0 2px 20px 0 #eff1f6;
+    background-color: white;
+    @media (min-width: 600px) {
+      width: 540px;
+      height: 330px;
+      padding: 48px 72px;
+    }
+  }
+
+  .addCardText {
+    width: 137px;
+    height: 20x;
+    margin: 4px 495px 3px 0;
+    // -webkit-filter: blur(10px);
+    // filter: blur(10px);
+    font-family: Raleway;
+    font-size: 28px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0369dd;
+  }
+
+  .linkStyle {
+    font-size: 14px;
+    font-weight: 600;
+    color: #0369dd;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 35px;
+    //padding: 0 2.25rem 0 2.25rem;
+    //margin-right: 20%;
+    @media (max-width: 600px) {
+      padding: 0px;
+    }
+  }
+
+  .btnStyle {
+    width: 300px;
+    height: 50px;
+  }
+
+  .addLabel {
+    font-size: 28px;
+    font-weight: 500;
+    @media (max-width: 600px) {
+      font-size: 20px;
+    }
+  }
+
+  .choiceLabel {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+}

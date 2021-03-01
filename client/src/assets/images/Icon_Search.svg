@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icon_Header_Search" width="20.414" height="20.414" data-name="W/Icon/Header/Search" viewBox="0 0 20.414 20.414">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-3{stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_21095" d="M0 0H20V20H0z" class="cls-1" data-name="Rectangle 21095"/>
+    <g id="W_Icon_Search" data-name="W/Icon/Search" style="isolation:isolate">
+        <path id="Rectangle_21035" d="M0 0H20V20H0z" class="cls-1" data-name="Rectangle 21035"/>
+        <g id="search" transform="translate(1 1)">
+            <circle id="Ellipse_8" cx="8" cy="8" r="8" class="cls-3" data-name="Ellipse 8"/>
+            <path id="Line_10" d="M4.35 4.35L0 0" class="cls-3" data-name="Line 10" transform="translate(13.65 13.65)"/>
+        </g>
+    </g>
+</svg>

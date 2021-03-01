@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="WM_Illus-B2B_Individual-card" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <style>
+            .cls-2{fill:#08f}.cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="W_Illustrations_Payment_Successful">
+        <g id="Group_23458">
+            <g id="Group_23453">
+                <circle id="Ellipse_2217" cx="47" cy="47" r="47" fill="#daf5fd"/>
+            </g>
+        </g>
+    </g>
+    <g id="Group_30393" transform="translate(24 21.22)">
+        <g id="credit-card_1_">
+            <path id="Path_25878" d="M3.472 159.771h39.933a3.473 3.473 0 0 1 3.472 3.472v22.571a3.473 3.473 0 0 1-3.472 3.472H3.472A3.473 3.473 0 0 1 0 185.814v-22.571a3.473 3.473 0 0 1 3.472-3.472z" class="cls-2" transform="translate(0 -148.992)"/>
+            <path id="Path_26025" fill="#7abbf2" d="M0 0h8.681v6.945H0z" transform="translate(4.34 15.12)"/>
+            <g id="Group_29825" transform="translate(4.34 17.724)">
+                <path id="Rectangle_21583" d="M0 0H2.604V1.736H0z" class="cls-2"/>
+                <path id="Rectangle_21584" d="M0 0H2.604V1.736H0z" class="cls-2" transform="translate(6.077)"/>
+            </g>
+            <g id="Group_29826" transform="translate(3.472 15.12)">
+                <path id="Rectangle_21585" d="M0 0H5.209V1.736H0z" class="cls-4" transform="translate(0 13.021)"/>
+                <path id="Rectangle_21586" d="M0 0H5.209V1.736H0z" class="cls-4" transform="translate(8.681 13.021)"/>
+                <path id="Rectangle_21587" d="M0 0H5.209V1.736H0z" class="cls-4" transform="translate(17.362 13.021)"/>
+                <path id="Rectangle_21588" d="M0 0H22.571V1.736H0z" class="cls-4" transform="translate(0 18.23)"/>
+                <path id="Rectangle_21589" d="M0 0H1.736V3.472H0z" class="cls-4" transform="translate(26.911)"/>
+                <path id="Rectangle_21590" d="M0 0H1.736V3.472H0z" class="cls-4" transform="translate(30.384)"/>
+                <path id="Rectangle_21591" d="M0 0H1.736V3.472H0z" class="cls-4" transform="translate(33.856)"/>
+                <path id="Rectangle_21592" d="M0 0H1.736V3.472H0z" class="cls-4" transform="translate(37.328)"/>
+            </g>
+        </g>
+    </g>
+</svg>

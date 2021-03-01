@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Move" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_21395" fill="rgba(255,255,255,0)" d="M0 0H20V20H0z"/>
+    <circle id="Ellipse_2249" cx=".75" cy=".75" r=".75" class="cls-2" transform="translate(6.25 9.225)"/>
+    <circle id="Ellipse_2250" cx=".75" cy=".75" r=".75" class="cls-2" transform="translate(6.25 3.1)"/>
+    <circle id="Ellipse_2251" cx=".75" cy=".75" r=".75" class="cls-2" transform="translate(6.25 15.35)"/>
+    <circle id="Ellipse_2249-2" cx=".75" cy=".75" r=".75" class="cls-2" transform="translate(12.25 9.225)"/>
+    <circle id="Ellipse_2250-2" cx=".75" cy=".75" r=".75" class="cls-2" transform="translate(12.25 3.1)"/>
+    <circle id="Ellipse_2251-2" cx=".75" cy=".75" r=".75" class="cls-2" transform="translate(12.25 15.35)"/>
+</svg>

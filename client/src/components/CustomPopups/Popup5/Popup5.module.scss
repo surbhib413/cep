@@ -1,0 +1,38 @@
+.confirmationContainer {
+  .otpVerification {
+   font-size: 20px;
+    font-weight: 600;
+    justify-content: center;
+    text-align: center;
+    color: #0257a3;
+  }
+  .noOpacity {
+    opacity: 0;
+  }
+  .popStyles {
+    color: #0257a3;
+  }
+  .msg{
+    text-align: center; 
+    font-size: 16px;
+    font-weight:600;
+     font-style: normal;
+    line-height: 1.54; 
+    letter-spacing: normal;
+     color: #354463
+  }
+  .dialogTitle {
+    font-size: 20px;
+    font-weight: 600;
+    @media (max-width: 600px) {
+      font-size: 18px;
+    }
+    .msg2{
+      font-size: 16px;
+      color: #354463;
+    }
+  }
+  .warning {
+    margin: 15px 0px;
+  }
+}

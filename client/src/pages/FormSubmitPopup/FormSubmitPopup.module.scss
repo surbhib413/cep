@@ -1,0 +1,51 @@
+// .dialogContainer {
+//   width: 600px;
+//   //min-width: 600px;
+// }
+.otpCard {
+  //padding: 2rem 4rem;
+  text-align: center;
+}
+
+.title {
+  text-align: "center";
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+}
+.btnDialog {
+  height: 40px;
+  width:180px;
+  font-size: 12px !important;
+  font-weight: bold !important;
+  letter-spacing: 0.6px;
+}
+.subLabel {
+  font-weight: 600;
+  font-size: 16px;
+  color: #354463;
+}
+
+.spanLabel {
+  color: #6e7a93;
+  font-size: 16px;
+}
+
+.bottomLabel {
+  font-size: 12px;
+  font-weight: normal;
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.inputOtp {
+  input {
+    width: 50%;
+    border: 0;
+    outline: 0;
+    border-bottom: 2px solid #0369dd;
+  }
+}
+
+.closeIcon {
+  cursor: pointer;
+}

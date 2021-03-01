@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Illustrations_Rejected" width="125" height="125" data-name="W/Illustrations/Rejected" viewBox="0 0 125 125">
+    <defs>
+        <style>
+            .cls-3{fill:#fadfe1}.cls-6{fill:#ff0335}.cls-7{fill:#fff}.cls-8{fill:#afb8bc}
+        </style>
+    </defs>
+    <g id="Group_23452" data-name="Group 23452">
+        <circle id="Ellipse_2217" cx="62.5" cy="62.5" r="62.5" fill="#daf5fd" data-name="Ellipse 2217"/>
+    </g>
+    <g id="fail" transform="translate(29.184 23.516)">
+        <path id="Union_8" fill="#24285b" d="M33.665 78.616H6.431A6.45 6.45 0 0 1 0 72.184V6.432A6.45 6.45 0 0 1 6.431 0H60.9a6.45 6.45 0 0 1 6.43 6.431v65.754a6.45 6.45 0 0 1-6.43 6.431z" data-name="Union 8"/>
+        <path id="Path_23721" d="M122.715 95.426h57.9v68.863h-57.9zm0 0" class="cls-3" data-name="Path 23721" transform="translate(-117.998 -90.994)"/>
+        <path id="Union_7" fill="#ffc402" d="M0 5.331V0h57.9v5.33H0z" data-name="Union 7" transform="translate(4.716 67.964)"/>
+        <path id="Union_9" fill="#63d7ea" d="M6.026 12.355A6.026 6.026 0 0 1 0 6.328V0h27.322v6.329a6.008 6.008 0 0 1-.4 2.167v.008a6.029 6.029 0 0 1-5.622 3.85z" data-name="Union 9" transform="translate(20.005)"/>
+        <path id="Union_5" d="M0 17.36a17.36 17.36 0 1 1 33.911 5.255v.02A17.363 17.363 0 0 1 0 17.36z" class="cls-6" data-name="Union 5" transform="translate(16.305 22.584)"/>
+        <path id="Union_6" d="M15.46 20.477l-5.221-5.221-5.222 5.221L0 15.461l5.222-5.222L0 5.018 5.017 0l5.222 5.222L15.46 0l5.017 5.018-5.221 5.221 5.221 5.221-5.017 5.017z" class="cls-7" data-name="Union 6" transform="translate(23.426 29.706)"/>
+    </g>
+    <g id="fail-2" data-name="fail" transform="translate(29.184 23.516)">
+        <path id="Union_8-2" d="M33.665 78.616H6.431A6.45 6.45 0 0 1 0 72.184V6.432A6.45 6.45 0 0 1 6.431 0H60.9a6.45 6.45 0 0 1 6.43 6.431v65.754a6.45 6.45 0 0 1-6.43 6.431z" class="cls-8" data-name="Union 8"/>
+        <path id="Path_23721-2" d="M122.715 95.426h57.9v68.863h-57.9zm0 0" class="cls-3" data-name="Path 23721" transform="translate(-117.998 -90.994)"/>
+        <path id="Union_5-2" d="M0 17.36a17.36 17.36 0 1 1 33.911 5.255v.02A17.363 17.363 0 0 1 0 17.36z" class="cls-6" data-name="Union 5" transform="translate(16.305 22.584)"/>
+        <path id="Union_6-2" d="M15.46 20.477l-5.221-5.221-5.222 5.221L0 15.461l5.222-5.222L0 5.018 5.017 0l5.222 5.222L15.46 0l5.017 5.018-5.221 5.221 5.221 5.221-5.017 5.017z" class="cls-7" data-name="Union 6" transform="translate(23.426 29.706)"/>
+    </g>
+    <g id="validation" transform="translate(66.794 13.199)">
+        <path id="Union_13" d="M6.657 25.976c-6.929-6.891-8.711-15.911-4.1-20.518L8.012 0l24.621 24.621-5.459 5.459a9 9 0 0 1-6.416 2.552h-.242c-4.375.003-9.562-2.32-13.859-6.656z" class="cls-8" data-name="Union 13" transform="translate(0 15.163)"/>
+        <path id="Union_14" fill="#6e7a93" d="M17.325 29.293a22.646 22.646 0 0 1-10.46-6.011l-.224-.222A22.769 22.769 0 0 1 .408 12.376C-.56 8.349.214 4.827 2.537 2.542c3.639-3.678 10.3-3.329 16.53.813l3.639 3.639 3.639 3.639a18.325 18.325 0 0 1 3.355 9.844 9.959 9.959 0 0 1-1.084 4.723 8.073 8.073 0 0 1-1.458 1.967 9.085 9.085 0 0 1-6.62 2.516 13.726 13.726 0 0 1-3.213-.39z" data-name="Union 14" transform="translate(5.475 12.62)"/>
+        <path id="Union_16" d="M1.626 28.015A5.352 5.352 0 0 1 0 24.144L17.408 2.619a6.839 6.839 0 1 1 9.6 9.6L5.5 29.641a5.352 5.352 0 0 1-3.874-1.626z" class="cls-8" data-name="Union 16" transform="translate(18.155)"/>
+    </g>
+    <path id="Path_23749" d="M207.425 83.331h-10.267a4.052 4.052 0 0 1-4.052-4.052v-4.256h18.372v4.255a4.053 4.053 0 0 1-4.053 4.053zm0 0" class="cls-8" data-name="Path 23749" transform="translate(-138.978 -51.31)"/>
+</svg>

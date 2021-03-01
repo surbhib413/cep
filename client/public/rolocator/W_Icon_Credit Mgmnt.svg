@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.011" height="20" viewBox="0 0 20.011 20">
+    <defs>
+        <style>
+            .cls-2,.cls-3{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-width:1.75px}.cls-2{stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="W_Icon_Credit_Mgmnt" transform="translate(.005)">
+        <g id="Credit_Management">
+            <path id="Rectangle_21191" fill="none" d="M0 0H20V20H0z"/>
+            <g id="credit-card" transform="translate(.87 2.608)">
+                <rect id="Rectangle_21190" width="18.261" height="13.913" class="cls-2" rx="2"/>
+                <path id="Line_1678" d="M0 0L17.923 0" class="cls-2" transform="translate(.126 5.606)"/>
+            </g>
+        </g>
+        <path id="Path_25453" d="M3247.8 4003.093h8.781" class="cls-3" transform="translate(-3243.738 -3989.065)"/>
+        <path id="Path_25454" d="M3247.8 4002.405h3.482" class="cls-3" transform="translate(-3243.442 -3991.054)"/>
+    </g>
+</svg>

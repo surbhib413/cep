@@ -1,0 +1,774 @@
+$color-greyText: #354463;
+$color-fileContainerBackground: #f0f6f8;
+$color-radioBtnText: #6e7a93;
+$color-headerDividerBackground: #eee;
+$color-downloadFileText: blue;
+
+.headerPaper {
+  position: relative;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+
+  // box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 1px 5px 0px rgba(0,0,0,0.12);
+  .formTitle {
+    font-weight: bold;
+    font-family: "Raleway";
+    font-size: 20px;
+  }
+
+  .formLastSaved {
+    font-size: 12px;
+    color: #6e7a93;
+  }
+
+  /* width */
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px white;
+    border-radius: 10px;
+    border: 1px solid #eff1f6;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #cddae0;
+    border-radius: 10px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #eff1f6;
+  }
+}
+
+.formSectionHeading {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.headerDivider {
+  background-color: $color-headerDividerBackground;
+  border: 0 none;
+  color: $color-headerDividerBackground;
+  height: 2px;
+  @media (min-width: 600px) {
+    margin-right: 10px;
+  }
+}
+
+.marginHR {
+  @media (min-width: 600px) {
+    margin-left: -316px;
+  }
+}
+.noOutlineButton:focus {
+  outline: none;
+}
+
+.submitBox {
+  border-radius: 4px;
+  border: solid 1.5px #cddae0;
+}
+
+.uploadContainer {
+  height: 154px;
+  border: dashed 1.2px #0369dd;
+  // margin-bottom: 40px;
+  position: relative;
+  @media (max-width: 600px) {
+    height: 122px;
+  }
+}
+.uploadContainerError {
+  height: 154px;
+  border: dashed 1.2px red;
+
+  position: relative;
+}
+.uploadBtn {
+  margin-top: 24px;
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+.uploadErrorMessage {
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fd3c4b;
+}
+.dragDropLabel {
+  height: 19px;
+  font-size: 14px;
+  color: $color-greyText;
+}
+.numOfCardsContainer {
+  display: flex;
+}
+.counterValContainer {
+  width: 100px;
+  @media (max-width: 600px) {
+    width: 216px;
+  }
+  height: 40px;
+  border-radius: 4px;
+  border: solid 2px #eff3fa;
+  background-color: #ffffff;
+  position: relative;
+  text-align: center;
+}
+.counter {
+  height: 40px;
+  width: 40px;
+  background-color: #eff3fa;
+  border: none;
+}
+.counter:focus {
+  outline: none;
+}
+
+.counterVal {
+  width: 9px;
+  height: 22px;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  color: $color-greyText;
+  top: 9px;
+  position: absolute;
+}
+.radioLabel {
+  font-weight: bold;
+  margin-bottom: 0px;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.virtualRadioBtnText {
+  // width: 415px;
+  // height: 33px;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-radioBtnText;
+  padding: 0 2.25rem 0 2.25rem;
+
+  @media (max-width: 600px) {
+    width: 110%;
+    padding-right: 0px;
+    padding-left: 35px;
+    margin-top: -15px;
+  }
+}
+.physicalRadioBtnText {
+  // width: 380px;
+  // height: 33px;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-radioBtnText;
+  padding: 0 2.25rem 0 2.25rem;
+
+  @media (max-width: 600px) {
+    width: 110%;
+    padding-right: 0px;
+    padding-left: 35px;
+    margin-top: -15px;
+  }
+}
+
+.cardDetailsHeading {
+  margin-bottom: 16px;
+  // width: 97px;
+  height: 22px;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-greyText;
+}
+.vehicleDetailsHeading {
+  margin-bottom: 16px;
+  // width: 97px;
+  padding-bottom: 16px;
+  height: 22px;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-greyText;
+}
+.fuelTypeSelectBox {
+  margin-bottom: 44px !important;
+}
+.uploadInstructionText {
+  // left: 38%;
+  position: absolute;
+  height: 19px;
+  font-size: 14px;
+  font-weight: bolder;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-greyText;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.uploadInstructionSubText {
+  // left: 38%;
+  position: absolute;
+  height: 19px;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6e7a93;
+  @media (min-width: 600px) {
+    padding-top: 20px;
+    font-size: 14px;
+  }
+}
+
+.downloadFileName {
+  color: $color-downloadFileText;
+}
+.fileContainer {
+  height: 50px;
+  border-radius: 4px;
+  background-color: $color-fileContainerBackground;
+  display: flex;
+  position: relative;
+  @media (min-width: 600px) {
+    width: 300px;
+  }
+}
+.fileImgStyle {
+  margin-left: 16px;
+  margin-top: 12px;
+  z-index: 1;
+}
+
+.deleteImgStyle {
+  margin-left: 244px;
+  margin-top: 12px;
+  position: absolute;
+  z-index: 1;
+}
+.fileName {
+  // margin-top: 9px;
+  z-index: 1;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-greyText;
+  white-space: nowrap;
+  width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dropzone {
+  width: 100%;
+  height: 127px;
+  position: absolute;
+  top: 0;
+}
+.basicDetailsHeader {
+  background-color: #0369dd;
+  color: #ffffff;
+  height: 64px;
+  margin-bottom: 24px;
+}
+.basicDetailsHeaderDisabled {
+  background-color: #eff1f6;
+  height: 64px;
+  margin-bottom: 24px;
+}
+
+.cardDetailsFieldsDisable {
+  background-color: #eff1f6;
+}
+.cardMgmtContainer {
+  width: 100%;
+}
+.basicDetailsCard {
+  height: 285px;
+  margin-left: 24px;
+}
+.cardDetailsContainer {
+  width: 1004px;
+  height: 631px;
+  box-shadow: 0.5px 3px 10px 0 rgba(53, 67, 98, 0.1);
+}
+.cardDetailsNavCards {
+  width: 270px;
+  height: 83px;
+  border-radius: 4px;
+  box-shadow: 0.5px 3px 10px 0 rgba(53, 67, 98, 0.1);
+  background-color: #ffffff;
+  margin-left: 8px;
+  display: flex;
+  //justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  @media (max-width: 600px) {
+    height: 60px;
+    width: 100%;
+    margin-left: 0px;
+    //justify-content: left;
+  }
+}
+.cardDetailsNavCardsActive {
+  width: 270px;
+  height: 83px;
+  border-radius: 4px;
+  box-shadow: 0.5px 3px 10px 0 rgba(53, 67, 98, 0.1);
+  background-color: #e5f0fc;
+  margin-left: 8px;
+  display: flex;
+  color: #0369dd;
+  // justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  fill: #0369dd;
+  @media (max-width: 600px) {
+    height: 60px;
+    width: 100%;
+    margin-left: 0px;
+    // justify-content: left;
+  }
+}
+
+.cardDetailsNavCardRow {
+  @media (min-width: 600px) {
+    margin-bottom: 8px;
+    //width: 200px;
+  }
+}
+.counterValDisabled {
+  opacity: 0.5;
+}
+
+// .cardDetailsNavCardsNumber {
+//   top: 30%;
+//   left: 40%;
+// }
+.cardDetailsNavIcon {
+  margin-left: 25px;
+  @media (max-width: 600px) {
+    margin-left: 15px;
+  }
+}
+.cardDetailsNavContainer {
+  @media (min-width: 600px) {
+    overflow-y: auto;
+    max-height: 500px;
+    overflow-x: hidden;
+  }
+}
+.cardMgmtDisableTheme {
+  background-color: #cccccc;
+}
+
+.displayEditFlag {
+  display: none;
+}
+
+.editBtnContainer {
+  display: inline-flex;
+  background: #ffffff;
+  position: relative;
+  top: 14px;
+  width: 82px;
+  bottom: 14px;
+  height: 36px;
+  right: 0%;
+  padding-left: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.cardDetailsPreviousIcon {
+  transform: rotate(180deg);
+  cursor: pointer;
+}
+.cardDetailsContainer {
+  margin-bottom: 43px;
+  margin-top: 35px;
+}
+
+.prevNextBg {
+  width: 15px;
+  height: 15px;
+  // opacity: 0.7;
+  background-color: #eff3fa;
+  border-radius: 50px;
+  cursor: pointer;
+}
+.prevNextBgDisabled {
+  width: 15px;
+  height: 15px;
+  opacity: 0.3;
+  background-color: #eff3fa;
+  border-radius: 50px;
+  cursor: default;
+}
+
+.submitBtnContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cancelConfirmContainer {
+  display: flex;
+  align-items: flex-end;
+}
+.cardManagementHeader {
+  display: flex;
+  justify-content: space-between;
+  .infoIconText {
+    font-size: 0.75rem;
+  }
+  .gridPadding {
+    @media (min-width: 600px) {
+      text-align: end;
+    }
+  }
+  .customButton1 {
+    border-radius: 4px 0 0 4px;
+    @media (max-width: 600px) {
+      width: 50%;
+    }
+  }
+
+  .customButton2 {
+    border-radius: 0 4px 4px 0;
+    @media (max-width: 600px) {
+      width: 50%;
+    }
+  }
+}
+
+.individualBulkSwitch {
+  //width: 280px;
+  height: 40px;
+  display: flex;
+  border: 1px solid #0369dd;
+  cursor: pointer;
+  // @media (max-width: 600px) {
+  width: 100%;
+  //}
+}
+.activeIndividualBulkSwitch {
+  color: white;
+  background: #0369dd;
+  font-weight: bold;
+  //width: 140px;
+  line-height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  // @media (max-width: 600px) {
+  width: 50%;
+  //}
+}
+.inActiveIndividualBulkSwitch {
+  color: #0369dd;
+  background: white;
+  font-weight: bold;
+  //width: 140px;
+  line-height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  //@media (max-width: 600px) {
+  width: 50%;
+  //}
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
+.redText {
+  color: red !important;
+  // background-color: green;
+}
+
+.cardDetailsNavArea {
+  @media (min-width: 600px) {
+    padding-right: 15px;
+  }
+}
+.cardDetailsFieldsArea {
+  // padding-left: 17px;
+  border: none;
+}
+
+.cardDetailsBtnContainer {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.saveClearBtnContainer {
+  @media (min-width: 600px) {
+    margin-top: 62px;
+  }
+
+  display: flex;
+  text-align: center;
+}
+.cardDetailsMainContainer {
+  //@media (min-width: 600px) {
+  //   border-left: 1px solid #cccccc;
+  //   padding-left: 15px;
+  //   margin-left: 2px;
+  // }
+}
+
+.cardDetailsFieldsSubContainer {
+  width: 100%;
+}
+.cardDetailsNavMainContainer {
+}
+.textAlignEnd {
+  text-align: end;
+}
+.textAlignCenter {
+  margin-left: 20%;
+}
+.dialogTitle {
+  font-size: 20px;
+  font-weight: 600;
+  color: #0257a3;
+  @media (max-width: 600px) {
+    font-size: 18px;
+  }
+}
+.iconColor {
+  // align-self: flex-end;
+  // padding-bottom: 5px;
+  // padding-right: 4px;
+  cursor: pointer;
+}
+.dialogMobileSubTitle {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+}
+.mobileBtn {
+  width: 120px;
+  height: 39px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.dialogSubTitle {
+  font-size: 16px;
+  font-weight: 600;
+}
+.linkStyle {
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0369dd;
+  margin-bottom: 4px;
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 0 2.25rem 0 2.25rem;
+  @media (max-width: 600px) {
+    margin-left: 35px;
+    padding: 0px;
+  }
+}
+
+.downLoadLinkStyle {
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0369dd;
+  margin-bottom: 4px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.errorLogSubHeadingContainer {
+  // display: flex;
+  // width: 100%;
+  padding: 12px 34px 12px 12px;
+  @media (max-width: 600px) {
+    padding: 12px 12px;
+  }
+}
+
+.errorLogTitle {
+  font-size: 20px;
+  font-weight: 600;
+  margin: auto;
+  color: #0257a3;
+  @media (max-width: 600px) {
+    font-size: 18px;
+  }
+}
+.errorLogSubHeading {
+  // width: 289px;
+  // height: 22px;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.downloadLinkContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+.errorLogTableHeader {
+  background-color: #eff3fa;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  color: #354463;
+  text-align: center;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.errorLogTableHeader:nth-child(2) {
+  background-color: #eff3fa;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  //padding-right: 6%;
+  color: #354463;
+  text-align: center;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.errorLogTableContent {
+  font-size: 14px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  color: #354463;
+  width: 50%;
+  text-align: center;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+.errorLogTableContent:nth-child(2) {
+  font-size: 14px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  //padding-right: 22%;
+  text-align: center;
+  color: #354463;
+  width: 50%;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+
+.errorLogPopCloseIcon {
+  right: 5%;
+  position: relative;
+}
+.viewErrorLogLink {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.cardBtnStyle {
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+}
+
+.cardInfoStyle {
+  color: #6e7a93;
+  font-size: 12px;
+}
+
+.successCardLbl {
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  color: #354463;
+  @media (max-width: 600px) {
+    font-size: 12px;
+  }
+}
+
+.disableInput {
+  background-color: #eff1f6;
+  color: #afb8bc;
+}
+
+.uploadtext {
+  font-size: 12px;
+  color: #6e7a93;
+}
+
+.menuOptionHeight {
+  height: 400px;
+}
+.cardDetailsNavDeleteIcon{
+   overflow:scroll;
+ 
+}

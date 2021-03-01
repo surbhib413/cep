@@ -1,0 +1,265 @@
+$color-location: #0369dd;
+$primary-font-family: "Raleway";
+$secondery-font-family: "Open Sans";
+.map {
+  height: 100%;
+  // position: fixed;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+.mainHeader {
+  font-size: 22px;
+  font-family: $primary-font-family;
+  font-weight: 600;
+  color: $color-location;
+}
+.top_bar_ro_locater {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.btnLocation {
+  background: transparent;
+  color: $color-location;
+  border: none;
+  font-family: $secondery-font-family;
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: 900;
+  img {
+    margin-right: 8px;
+  }
+}
+.roHeader {
+  // padding-top: 15px;
+  // padding-bottom: 15px;
+  height: 55px;
+}
+.locationButton {
+  display: flex;
+  align-items: center;
+}
+.customButton1 {
+  border-radius: 4px 0 0 4px;
+  @media (max-width: 600px) {
+    width: 50%;
+  }
+}
+
+.customButton2 {
+  border-radius: 0 4px 4px 0;
+  @media (max-width: 600px) {
+    width: 50%;
+  }
+}
+
+.root {
+  flex-grow: 1;
+  background-color: #f9fbff;
+}
+
+.customSidebar {
+  width: 240px;
+  height: auto;
+  background-color: #fff;
+  margin-right: 20px;
+  @media screen and (max-width: 767px) {
+    display: "none";
+    width: "240px";
+  }
+}
+
+// Cluster Custom
+
+// .custom-clustericon {
+//     background: #0369dd;
+//     color: #fff;
+//     border-radius: 100%;
+//     font-weight: bold;
+//     font-size: 15px;
+//     display: flex;
+//     align-items: center;
+//   }
+
+//   .custom-clustericon::before,
+//   .custom-clustericon::after {
+//     content: "";
+//     display: block;
+//     position: absolute;
+//     width: 100%;
+//     height: 100%;
+//     transform: translate(-50%, -50%);
+//     top: 50%;
+//     left: 50%;
+//     background: #0369dd;
+//     opacity: 0.2;
+//     border-radius: 100%;
+//   }
+
+//   .custom-clustericon::before {
+//     padding: 7px;
+//   }
+
+//   .custom-clustericon::after {
+//     padding: 14px;
+//   }
+
+//   .custom-clustericon-1 {
+//     --cluster-color: #00a2d3;
+//   }
+
+//   .custom-clustericon-2 {
+//     --cluster-color: #ff9b00;
+//   }
+
+//   .custom-clustericon-3 {
+//     --cluster-color: #ff6969;
+//   }
+
+.headerDivider {
+  background-color: #cddae0;
+  border: 0 none;
+  color: #cddae0;
+  height: 1.5px;
+  margin: 0px;
+}
+
+.imageStyle {
+  width: 14.2px;
+  height: 12.8px;
+}
+
+.countStyle {
+  width: 30px;
+  height: 24px;
+  margin: 0 10px 0 6px;
+  padding: 3px 7px 2px;
+  border-radius: 2px;
+  border: solid 1px #cadae1;
+  background-color: #ffffff;
+  color: #0369dd;
+}
+
+.filterLabel {
+  font-size: 14px;
+  font-weight: 600;
+  color: #354463;
+}
+.searchContainer {
+  width: 402px;
+  .searchTextInput {
+    color: black;
+    width: 100%;
+    color: #cddae0;
+    margin-left: 9px;
+    padding: 8px 8px 8px 16px;
+    border: solid 1px #cddae0;
+    background-color: #ffffff;
+  }
+  .cursorPointer {
+    cursor: pointer;
+    text-align: end;
+  }
+  .webRadioButtonArrow {
+    padding: 0;
+    height: 24px;
+    width: 24px;
+    transform: rotate(90deg);
+    color: #6e7a93;
+  }
+  .pac-item {
+    background-color: red;
+  }
+}
+.cursorPointer {
+  cursor: pointer;
+  text-align: end;
+}
+.webRadioButtonArrow {
+  padding: 0;
+  height: 24px;
+  width: 24px;
+  transform: rotate(90deg);
+  color: #6e7a93;
+}
+.pac-item {
+  background-color: red;
+}
+
+.tabBtngrp {
+  height: 24px;
+}
+.tabBtn {
+  font-size: 13px;
+}
+
+.customAccordion {
+  background-color: transparent;
+}
+
+.searchGrid {
+  height: calc(100vh - 250px);
+  overflow-y: hidden;
+  position: relative;
+  &:hover {
+    overflow-y: overlay;
+  }
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+}
+
+.test {
+  //padding-left: 0px;
+  padding-top: 7px;
+  width: 24px;
+  height: 58px;
+}
+.testp {
+  margin-bottom: 0px;
+  padding-top: 19px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 0.875rem;
+  font-family: "Open Sans", Raleway;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.test {
+  //padding-left: 0px;
+  padding-top: 7px;
+  width: 24px;
+  height: 58px;
+}
+.testp {
+  margin-bottom: 0px;
+  padding-top: 19px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 0.875rem;
+  font-family: "Open Sans", Raleway;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.btnWidth {
+  min-width: 40px;
+}

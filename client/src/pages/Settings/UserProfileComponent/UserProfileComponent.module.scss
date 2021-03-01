@@ -1,0 +1,82 @@
+.profileImgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0 15px 0;
+
+  .profileImg {
+    width: 130px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+  }
+
+  .defaultImg {
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    background-color: rgba(3, 105, 221, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3.5rem;
+    color: #0369dd;
+  }
+}
+
+
+.profImgBtn {
+  text-transform: capitalize;
+  font-weight: 500;
+  letter-spacing: normal;
+  min-width: 100px;
+}
+.profImgIcon {
+  width: 15px;
+}
+
+.greyBg {
+  background-color: #eff1f6;
+  fieldset {
+    border: transparent;
+  }
+}
+
+.profileActionBtns {
+  float: right;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .profileActionBtns {
+    float: none;
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .profileActionBtns span {
+    display: flex;
+    width: 100%;
+  }
+  .profileActionBtns .passwordSubmitBtn {
+    margin-top: 70px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .userProfileModal {
+    margin-top: 20px;
+    .profileImg {
+      width: 70px;
+    }
+  }
+}
+
+@media (min-width: 600px) {
+  .singleRow {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

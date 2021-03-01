@@ -1,0 +1,373 @@
+$color-active-btn: #0369dd;
+$color-inactive-btn: #eff1f6;
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100% - 80px);
+  // min-height: -moz-calc(100% - 80px);
+  // min-height: -webkit-calc(100% - 80px);
+  @media only screen and (max-width: 576px) {
+    min-height: calc(100% - 56px);
+    // height: -moz-calc(100% - 56px);
+    // height: -webkit-calc(100% - 56px);
+  }
+}
+.assistedContainer {
+  @media only screen and (max-width: 576px) {
+    height: 100%;
+  }
+}
+.formPaper {
+  flex: 1;
+}
+.bodyContainer {
+  margin-top: 80px;
+}
+.headerPaper {
+  position: sticky;
+  box-shadow: 0 7px 20px 0 #eff1f6 !important;
+  z-index: 999;
+  // position: fixed;
+  // width:97.5%;
+  top: 80px;
+  // box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 1px 5px 0px rgba(0,0,0,0.12);
+  .formTitle {
+    // font-weight: 600;
+    // font-family: "Raleway";
+    font-size: 25px;
+    .titleLeft {
+      flex: 1;
+    }
+    .formLastSaved {
+      padding-left: 10px;
+      font-size: 12px;
+      color: #6e7a93;
+      font-family: "Open Sans";
+      font-style: italic;
+    }
+  }
+}
+.headerPaperAssisted {
+  position: sticky;
+  box-shadow: 0 7px 20px 0 #eff1f6 !important;
+  z-index: 999;
+  top: 0px;
+  border-top: 24px solid #eff1f6;
+}
+.stepperLabel {
+  font-weight: 600;
+  color: #354463;
+}
+.formSectionHeading {
+  font-weight: bold;
+  font-size: 18px;
+  @media (max-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+.headerDivider {
+  background-color: #eee;
+  border: 0 none;
+  color: #eee;
+  height: 2px;
+  margin: 12px 0;
+}
+
+.borderButton:focus {
+  outline: none;
+}
+
+.modalPos {
+  display: "flex";
+  align-items: "center";
+  justify-content: "center";
+}
+
+.imageStyle {
+  vertical-align: baseline;
+}
+
+.approvedBackground {
+  background-color: #e5fff7;
+}
+
+.pendingBackground {
+  background-color: #fff9e6;
+}
+
+.rejectedBackground {
+  background-color: #fff0f0;
+}
+
+.textAlign {
+  text-align: start;
+}
+
+.unorderedList {
+  margin-bottom: 0rem;
+  display: contents;
+}
+
+.listItem {
+  display: list-item;
+  list-style-type: disc;
+}
+
+.modal {
+  top: 15%;
+  text-align: center;
+  padding: 2rem 2rem;
+  width: 624px;
+  border-radius: 4px;
+  position: absolute;
+  background-color: white;
+  box-shadow: 0 19px 38px 0 rgba(0, 0, 0, 0.26);
+  @media only screen and (max-width: 576px) {
+    width: 340px;
+  }
+}
+
+.cancelIconPos {
+  position: absolute;
+  right: 0;
+  margin-right: 2rem;
+  margin-top: -0.5rem;
+  @media only screen and (max-width: 576px) {
+    margin-right: 1rem;
+  }
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
+
+.noOutlineButton:focus {
+  outline: none;
+}
+
+.submitBox {
+  border-radius: 4px;
+  border: solid 1.5px #cddae0;
+}
+
+.px-10 {
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
+
+.selectMarginBottom {
+  // @media (min-width: 500px) {
+  margin-bottom: 20px;
+  // }
+  // border: solid 1px #cddae0;
+}
+.uploadedContainer {
+  background-color: #f6f8fb;
+  .fileDetails {
+    color: #97a2a8;
+  }
+  .deleteIcon {
+    cursor: pointer;
+  }
+}
+.textArea {
+  width: 100%;
+  height: 100px !important;
+  padding: 1rem;
+  font-size: revert;
+  border: 2px solid #eee;
+  border-radius: 5px;
+  //margin-bottom: 1rem;
+}
+
+.redTextArea {
+  width: 100%;
+  height: 100px !important;
+  padding: 1rem;
+  font-size: revert;
+  border: 2px solid red;
+  border-radius: 5px;
+  //margin-bottom: 1rem;
+}
+
+.boldText {
+  font-weight: bold;
+}
+.link {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #354463;
+  @media (max-width: 600px) {
+    font-size: 14px;
+  }
+}
+.radioLabel {
+  font-weight: bolder;
+}
+
+.girdMarginBottom40 {
+  margin-bottom: 43px;
+}
+
+// .inactiveButton {
+//   background-color: $color-inactive-btn;
+//   color: #afb8bc;
+// }
+.activeButton {
+  background-color: $color-inactive-btn;
+  color: white;
+}
+.verifyBtnRow {
+  position: relative;
+}
+.verifyBtn {
+  position: absolute;
+  left: 20%;
+}
+
+.checkBoxPos {
+  margin-top: -0.4rem;
+  margin-right: 0rem;
+}
+.payNowRow {
+  margin-top: 80px;
+  display: flex;
+}
+.payNowRow .headerDivider {
+  margin-right: 64px;
+}
+.singlecreditcardimgRow {
+  display: none;
+}
+.headerDividerMobile {
+  display: none;
+}
+.payNowBtn {
+  margin-left: 64px;
+}
+
+.termsAndConditionsWeb {
+  display: inline;
+}
+.termsAndConditionsMobile {
+  display: none;
+}
+@media (max-width: 600px) {
+  .verifyBtnRow {
+    display: none;
+  }
+  .payNowBtn {
+    width: 100%;
+    margin-left:0;
+  }
+  .payNowRow {
+    .headerDivider {
+      display: none;
+    }
+  }
+
+  .creditcardimgRow {
+    display: none;
+  }
+  .singlecreditcardimgRow {
+    display: block;
+    img {
+      width: 100%;
+    }
+  }
+  .headerDividerMobile {
+    display: block;
+  }
+  .businessInfoAreaOfOperationsCheckbox {
+    width: 100%;
+  }
+  .termsAndConditionsWeb {
+    display: none;
+  }
+  .termsAndConditionsMobile {
+    display: inline;
+  }
+}
+.mobileStepper {
+  background-color: #eff3fa !important;
+}
+
+.rupeeStyle {
+  font-size: 16px !important;
+  font-weight: 600px !important;
+}
+.iconColor {
+  fill: #6e7a93;
+  cursor: pointer;
+}
+.backToService {
+  font-size: 18px;
+  font-weight: bold;
+  color: #0369dd;
+}
+
+.stickyAccordian {
+  @media only screen and (max-width: 576px) {
+    top: 0;
+  }
+}
+
+.infoRight {
+  float: right;
+}
+
+/* Chrome, Safari, Edge, Opera */
+// input::-webkit-outer-spin-button,
+// input::-webkit-inner-spin-button {
+//   -webkit-appearance: none;
+//   margin: 0;
+// }
+
+/* Firefox */
+// input[type="number"] {
+//   -moz-appearance: textfield;
+// }
+
+.errorAlertStyle {
+  background-color: #ffd1d1;
+  border-radius: 4px;
+  color: #e21e1e;
+}
+
+.dialogTitle {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.dialogSubTitle {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.dialogMobileSubTitle {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.mobileBtn {
+  width: 100px;
+}
+.noOpacity {
+  opacity: 0;
+}
+.alignTextRadio {
+  margin-left: 34px;
+  margin-top: -15px;
+}
+.paybuttonmargin{
+  margin-left: -50px;
+  @media only screen and (max-width: 576px) {
+    margin-left: 0;
+  }
+}
+.uploadButtonMargin{
+  margin-left: 30px;
+}

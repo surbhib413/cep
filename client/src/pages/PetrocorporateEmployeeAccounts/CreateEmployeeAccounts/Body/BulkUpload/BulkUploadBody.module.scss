@@ -1,0 +1,139 @@
+$color-greyText: #354463;
+$color-fileContainerBackground: #f0f6f8;
+$color-radioBtnText: #6e7a93;
+$color-headerDividerBackground: #eee;
+$color-downloadFileText: blue;
+
+.uploadContainer {
+  display: flex;
+  border: dashed 1.5px #0369dd;
+  padding: 52px 0;
+  @media only screen and (max-width: 576px) {
+    padding: 24px 0;
+  }
+  // margin-bottom: 40px;
+  flex-direction: column;
+  align-items: center;
+  // position: relative;
+}
+
+.downloadFileName {
+  color: #0369dd !important;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.uploadtext {
+  font-size: 14px;
+  color: #6e7a93;
+}
+.labelText {
+  font-size: 14px;
+  font-weight: 600;
+  color: #354463;
+}
+.downloadIcon {
+  color: #354463;
+  opacity: 0.9;
+}
+.uploadedContainer {
+  background-color: #f6f8fb;
+  .fileDetails {
+    color: #97a2a8;
+  }
+  .deleteIcon {
+    cursor: pointer;
+  }
+}
+.errorAlertStyle {
+  background-color: #ffd1d1;
+  border-radius: 4px;
+  text-align: start;
+  color: #e21e1e;
+}
+.errorAlertAlign {
+  //margin-left: -13px;
+  font-size: 14px;
+}
+.borderButton:focus {
+  outline: none;
+}
+.errorPara {
+  // color: #e21e1e;
+  background-color: #fff0f0;
+  width: 50%;
+}
+.errorlogLink {
+  color: #0369dd;
+  text-decoration: underline;
+  font-size: 14px;
+  font-weight: 600;
+}
+.errorTextFont {
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #354463;
+  line-height: 21px;
+}
+.submitBox {
+  border-radius: 4px;
+  border: solid 1.5px #cddae0;
+}
+.noOutlineButton:focus {
+  outline: none;
+}
+.rejectIcon {
+  height: 24px;
+  color: hsl(0, 77%, 50%);
+}
+.errorPara__list {
+  list-style: inherit;
+  li {
+    display: flex;
+    .reasonsList {
+      background-color: black;
+      height: 5px;
+      width: 5px;
+      margin-top: 8px;
+      margin-right: 10px;
+      border-radius: 50%;
+      display: flex;
+    }
+  }
+}
+.mobileExcelTemplateBox {
+  // height: 40px;
+  background-color: rgb(230, 241, 254);
+  border-radius: 2px;
+  .downloadFileName {
+    color: #0369dd !important;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: underline;
+  }
+}
+.popStyles {
+  color: #0257a3;
+}
+.responsiveErrorContainer {
+  width: 328px;
+  height: auto;
+  background-color: #fff0f0;
+}
+
+.fileNameStyle {
+  z-index: 1;
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-greyText;
+  white-space: nowrap;
+  width: 150px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,0 +1,78 @@
+// START | CARD BLOCK
+.mainCard {
+  position: relative;
+  border-radius: 12px;
+
+  @media (max-width: 600px) {
+    margin-bottom: 15px;
+  }  
+
+  .cardBg {
+    width: 100%;
+  }
+
+  .cardTextContainer {
+    position: absolute;
+    padding: 15px 18px;
+    width: 100%;
+    top: 0px;
+  }
+
+  .cardTypeContainer {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .cardType, .cardMeta {
+    font-size: 12px;
+    border-radius: 4px;
+    // background-color: #0f91a7;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 2px 8px;
+  }
+  .cardType {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+
+  .companyContainer {
+    display: flex;
+    justify-content: space-between;
+  }
+  .companyName {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+    max-width: 150px;
+  }
+  .cardMeta {
+    // display: inline-block;
+    height: max-content;
+  }
+  .faidContainer {
+    position: absolute;
+    padding: 15px 18px;
+    width: 100%;
+    bottom: 0px;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 12px;
+    text-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+
+    .faid {
+      margin-bottom: 3px;
+    }
+  }
+
+  .stripBLUE { background-color: #0f91a7; }
+  .stripGOLD { background-color: #a0800c; }
+  .stripPLATINUM { background-color: #637489; }
+  .stripPLATINUMPLUS { background-color: #3d3d81; }
+  .stripSIGNATURE { background-color: #363648; }
+  .stripSILVER { background-color: #777777; }
+
+}
+// END | CARD BLOCK

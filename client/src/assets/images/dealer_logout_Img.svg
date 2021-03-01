@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22.003" viewBox="0 0 20 22.003">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="W_Icon_Power" transform="translate(0 1)">
+        <g id="power" transform="translate(-1.995 -2)">
+            <path id="Path_22928" d="M18.36 6.64a9 9 0 1 1-12.73 0" class="cls-1"/>
+            <path id="Line_16" d="M0 0L0 10" class="cls-1" transform="translate(12 2)"/>
+        </g>
+        <path id="Rectangle_21035" fill="none" d="M0 0H20V20H0z"/>
+    </g>
+</svg>

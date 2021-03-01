@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_35_Application_Details" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-3{stroke:#354463;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21626" d="M0 0H35V35H0z" class="cls-1"/>
+    <g id="Group_29955" transform="translate(-351 -3649)">
+        <path id="Rectangle_21627" d="M0 0H35V35H0z" class="cls-1" transform="translate(351 3649)"/>
+        <g id="Group_29950" transform="translate(16 3304)">
+            <circle id="Ellipse_2254" cx="17.5" cy="17.5" r="17.5" fill="#dfe5ed" transform="translate(335 345)"/>
+            <g id="W_Icon_User" transform="translate(345 353)">
+                <g id="Group_23200">
+                    <g id="user">
+                        <path id="Path_22933" d="M20 21.33v-2.11A4.114 4.114 0 0 0 16 15H8a4.114 4.114 0 0 0-4 4.22v2.11" class="cls-3" transform="translate(-4 -3.33)"/>
+                        <circle id="Ellipse_11" cx="4" cy="4" r="4" class="cls-3" transform="translate(4)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

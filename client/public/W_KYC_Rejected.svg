@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Approved" width="114" height="30" viewBox="0 0 114 30">
+    <defs>
+        <style>
+            .cls-4{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <text id="Rejected_" fill="#e21e1e" font-family="OpenSans-Bold, Open Sans" font-size="12px" font-weight="700" letter-spacing="0.009em" transform="translate(43 20.496)">
+        <tspan x="0" y="0">REJECTED</tspan>
+    </text>
+    <g id="x-circle" transform="translate(15 5.996)">
+        <circle id="Ellipse_2249" cx="10" cy="10" r="10" fill="#e21e1e" transform="translate(0 .004)"/>
+        <path id="Line_1694" d="M6 0L0 6" class="cls-4" transform="translate(7 7.004)"/>
+        <path id="Line_1695" d="M0 0L6 6" class="cls-4" transform="translate(7 7.004)"/>
+    </g>
+</svg>

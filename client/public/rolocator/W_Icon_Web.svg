@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icon_Web" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_21089" fill="rgba(255,255,255,0)" d="M0 0H20V20H0z"/>
+    <g id="Group_23318" transform="translate(-392 -1855)">
+        <path id="Line_1670" d="M14 0L0 0" class="cls-2" transform="translate(395 1865)"/>
+        <path id="Path_23095" d="M12 19l-7-7 7-7" class="cls-2" transform="translate(390 1853)"/>
+    </g>
+</svg>

@@ -1,0 +1,71 @@
+.calanderContainer {
+  position: absolute;
+  z-index: 20;
+  left: 50px;
+  top: 215px;
+  box-shadow: 0 7px 25px 0 rgba(144, 144, 144, 0.23);
+  .definedRanges {
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-color: #cddae0;
+  }
+  .rdrDateRangePickerWrapper {
+    padding: 0px 20px;
+  }
+}
+.calendarIcon {
+  width: 28px;
+}
+
+.dialogContent {
+  height: 490px;
+}
+
+.colLabels {
+  font-size: 12px;
+}
+
+.blueText {
+  color: #0369dd;
+}
+
+.colValues {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.colStyle {
+  font-size: 12px;
+}
+
+.pendingRectangle {
+  height: 30px;
+  width: 150px;
+  background-color: #ffefdb;
+  color: #ff6c00;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.approvedRectangle {
+  height: 30px;
+  width: 150px;
+  background-color: #ddfdf4;
+  color: #01d195;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.radioStyle {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+}
+.approved {
+  background-color: #117af5;
+}

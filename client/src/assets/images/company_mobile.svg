@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_23475" width="36.169" height="41.25" viewBox="0 0 36.169 41.25">
+    <defs>
+        <style>
+            .cls-1{fill:#79e2f3}.cls-2{fill:#79f3c1}.cls-4{fill:#1d80f5}.cls-5{fill:#005aac}
+        </style>
+    </defs>
+    <g id="Group_23365">
+        <g id="Group_23364">
+            <path id="Path_23099" d="M324.622 168.367v-20.229l-13.476-6.415v26.644h13.476z" class="cls-1" transform="translate(-289.749 -127.135)"/>
+            <path id="Path_23101" d="M74.728 255.792h17.908v-20.844H74.728z" class="cls-2" transform="translate(-73.86 -214.542)"/>
+            <path id="Path_23103" d="M97.843 121.263h13.894v9.96H97.843z" class="cls-1" transform="translate(-94.967 -110.733)"/>
+            <path id="Path_23105" fill="#ffc402" d="M170.9 4.067a.68.68 0 0 1-.695-.664V.664L170.9 0l.695.664V3.4a.68.68 0 0 1-.695.667z" transform="translate(-161.047)"/>
+            <path id="Path_23106" d="M97.65 269.064v15.63h1.39v-15.63z" class="cls-4" transform="translate(-94.761 -245.7)"/>
+            <path id="Path_23107" d="M126.672 269.064v15.63h1.39v-15.63z" class="cls-4" transform="translate(-120.657 -245.7)"/>
+            <path id="Path_23108" d="M155.7 269.064v15.63h1.39v-15.63z" class="cls-4" transform="translate(-146.554 -245.7)"/>
+            <g id="Group_23331" transform="translate(12.267 23.364)">
+                <path id="Path_23110" d="M213.738 284.694v-15.63h1.39v15.63z" class="cls-4" transform="translate(-213.738 -269.064)"/>
+            </g>
+            <g id="Group_23332" transform="translate(5.408 12.95)">
+                <path id="Path_23111" d="M126.673 154.418v-5.284h1.39v5.284z" class="cls-4" transform="translate(-126.673 -149.134)"/>
+            </g>
+            <g id="Group_23333" transform="translate(9.141 12.95)">
+                <path id="Path_23112" d="M155.7 154.418v-5.284h1.39v5.284z" class="cls-4" transform="translate(-155.695 -149.134)"/>
+            </g>
+            <g id="Group_23335" transform="translate(12.961 12.95)">
+                <path id="Path_23114" d="M213.739 154.418v-5.284h1.39v5.284z" class="cls-4" transform="translate(-213.739 -149.134)"/>
+            </g>
+            <g id="Group_23337" transform="translate(15.48 23.364)">
+                <path id="Path_23116" d="M242.761 284.694v-15.63h1.39v15.63z" class="cls-4" transform="translate(-242.761 -269.064)"/>
+            </g>
+            <path id="Path_23117" d="M135.937 44.867h7.278V51.5h-7.278z" class="cls-2" transform="translate(-129.754 -40.971)"/>
+            <path id="Path_23121" d="M351.113 241.312h-7.8v-1.39h7.8z" class="cls-4" transform="translate(-319.122 -216.477)"/>
+            <path id="Path_23128" d="M317.821 140.64l-14.966-7.24.638-1.224 14.909 7.277z" class="cls-5" transform="translate(-282.233 -118.874)"/>
+            <g id="Group_23357" transform="translate(5.315 3.232)">
+                <path id="Path_23143" d="M134.952 38.614h-9.015v-1.39h9.015z" class="cls-5" transform="translate(-125.937 -37.224)"/>
+            </g>
+            <g id="Group_23358" transform="translate(2.007 9.866)">
+                <path id="Path_23144" d="M103.474 115.011H87.843v-1.39h15.631z" class="cls-5" transform="translate(-87.843 -113.621)"/>
+            </g>
+            <g id="Group_23359" transform="translate(0 19.738)">
+                <path id="Path_23145" d="M84.373 228.7H64.728v-1.39h19.645z" class="cls-5" transform="translate(-64.728 -227.306)"/>
+            </g>
+            <g id="Group_23360" transform="translate(7.899 5.859)">
+                <path id="Path_23146" d="M155.7 64.213V61.48h1.39v2.733z" class="cls-4" transform="translate(-155.695 -61.48)"/>
+            </g>
+            <g id="Group_23361" transform="translate(10.419 5.859)">
+                <path id="Path_23147" d="M184.717 64.213V61.48h1.39v2.733z" class="cls-4" transform="translate(-184.717 -61.48)"/>
+            </g>
+            <path id="Path_23148" d="M351.113 241.312h-7.8v-1.39h7.8z" class="cls-4" transform="translate(-319.149 -212.57)"/>
+            <path id="Path_23149" d="M351.113 241.312h-7.8v-1.39h7.8z" class="cls-4" transform="translate(-319.149 -208.662)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,108 @@
+//RedeemBalance pop up styles
+.RedeemPetromiles {
+  width: 272px;
+  height: 38px;
+  font-family: "Open Sans";
+  font-size: 28px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0369dd;
+}
+
+.dialogContent {
+  height: auto;
+}
+
+.label {
+  width: 361px;
+  height: 22px;
+  //margin: 32px 173px 8px 0;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+}
+
+.mobileLabel {
+  width: auto;
+  height: 22px;
+  //margin: 32px 173px 8px 0;
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+}
+
+.spanLabel {
+  width: auto;
+  height: 19px;
+  //margin: 8px 206px 24px 0;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+}
+
+.spanMobileLabel {
+  width: auto;
+  height: 19px;
+  //margin: 8px 206px 24px 0;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+}
+
+.headerMobileLabel {
+  font-size: 22px !important;
+}
+
+//RedemptionStatus pop up styles
+.confirmationContainer {
+  color: #6e7a93;
+  .title {
+    @media (max-width: 600px) {
+      font-size: 14px;
+    }
+  }
+  .rewardMessage {
+    font-size: 14px;
+    font-weight: 600;
+    @media (max-width: 600px) {
+      font-size: 12px;
+    }
+  }
+}
+
+.modalTitle {
+  color: #0257a3;
+}
+
+.adorn {
+  color: #97a2a8;
+  font-size: 14px;
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Illustrations_Payment_Failed" width="125" height="125" data-name="W/Illustrations/Payment Failed" viewBox="0 0 125 125">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}.cls-5{fill:#fd3c4b}.cls-6{fill:#6e7a93}
+        </style>
+    </defs>
+    <circle id="Ellipse_2217" cx="62.5" cy="62.5" r="62.5" fill="#daf5fd" data-name="Ellipse 2217"/>
+    <g id="Group_23459" data-name="Group 23459" transform="translate(46.438 87.002)">
+        <rect id="Rectangle_21187" width="32" height="30" fill="#79e2f3" data-name="Rectangle 21187" rx="2" transform="translate(.062 .003)"/>
+        <path id="Rectangle_21188" d="M0 0H4V14H0z" class="cls-3" data-name="Rectangle 21188" transform="translate(7.062 11.003)"/>
+    </g>
+    <rect id="Rectangle_21170" width="49.805" height="77.148" fill="#afb8bc" data-name="Rectangle 21170" rx="4" transform="translate(37.624 16.9)"/>
+    <rect id="Rectangle_21171" width="41.016" height="16.602" class="cls-5" data-name="Rectangle 21171" rx="3" transform="translate(41.53 28.619)"/>
+    <path id="Union_19" d="M6.813 9.023l-2.3-2.3-2.3 2.3L0 6.813l2.3-2.3L0 2.211 2.211 0l2.3 2.3L6.812 0l2.211 2.211-2.3 2.3 2.3 2.3-2.21 2.213z" class="cls-3" data-name="Union 19" transform="translate(57.526 32.213)"/>
+    <rect id="Rectangle_21175" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21175" rx="2.506" transform="translate(42.236 52.802)"/>
+    <rect id="Rectangle_21176" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21176" rx="2.506" transform="translate(56.774 52.802)"/>
+    <rect id="Rectangle_21177" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21177" rx="2.506" transform="translate(71.311 52.802)"/>
+    <rect id="Rectangle_21178" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21178" rx="2.506" transform="translate(42.236 61.825)"/>
+    <rect id="Rectangle_21179" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21179" rx="2.506" transform="translate(56.774 61.825)"/>
+    <rect id="Rectangle_21180" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21180" rx="2.506" transform="translate(71.311 61.825)"/>
+    <rect id="Rectangle_21181" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21181" rx="2.506" transform="translate(42.236 70.849)"/>
+    <rect id="Rectangle_21182" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21182" rx="2.506" transform="translate(56.774 70.849)"/>
+    <rect id="Rectangle_21183" width="10.527" height="5.013" class="cls-6" data-name="Rectangle 21183" rx="2.506" transform="translate(71.311 70.849)"/>
+    <rect id="Rectangle_21184" width="10.527" height="6.016" class="cls-5" data-name="Rectangle 21184" rx="3.008" transform="translate(42.236 81.877)"/>
+    <rect id="Rectangle_21185" width="10.527" height="6.016" fill="#ffc402" data-name="Rectangle 21185" rx="3.008" transform="translate(56.774 81.877)"/>
+    <rect id="Rectangle_21186" width="10.527" height="6.016" fill="#01d195" data-name="Rectangle 21186" rx="3.008" transform="translate(71.311 81.877)"/>
+    <rect id="Rectangle_21189" width="41.016" height="1.953" fill="#1c2841" data-name="Rectangle 21189" rx=".977" transform="translate(41.53 21.783)"/>
+</svg>

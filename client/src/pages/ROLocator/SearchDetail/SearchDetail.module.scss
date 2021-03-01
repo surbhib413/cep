@@ -1,0 +1,158 @@
+.results {
+  padding: 24px 17.4px;
+  border-radius: 4px;
+  box-shadow: 0 0 10px 0 rgba(224, 214, 214, 0.29);
+  background-color: #ffffff;
+}
+.title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #354463;
+}
+
+.subTitle {
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  color: #354463;
+}
+
+.subContainer {
+  padding: 13px 24px 13px 24px;
+  background-color: #eff3fa;
+  //height: 50px;
+}
+
+.subContainer2 {
+  padding: 13px 24px 13px 24px;
+  background-color: #f9fbff;
+  height: 50px;
+}
+
+.Showingresult {
+  width: 134px;
+  height: 18px;
+  margin: 0 8px 0 0;
+  font-family: OpenSans;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4.15;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+  display: inline;
+}
+.WIconChevronSmall {
+  width: 14px;
+  height: 14px;
+  margin: 2px 6px 2px 8px;
+  object-fit: contain;
+}
+.pagetransaction {
+  border: 0px;
+  padding: 0px;
+  background-color: transparent;
+}
+
+.Rectangle {
+  // height: 94px;
+  // margin: 8px 0;
+  // padding: 16px;
+  // border-radius: 4px;
+  // box-shadow: 0 2px 10px 0 rgba(224, 214, 214, 0.2);
+  // background-color: #ffffff;
+  margin: 17px 7.6px 16px 8px;
+  padding: 15px 16px 16px 16px;
+  background-color: #f9fbff;
+}
+
+.Loremipsumdol {
+  // max-width: 242px;
+  // height: 20px;
+  // margin: 0 8px 4px 0;
+  // font-family: OpenSans;
+  // font-size: 15px;
+  // font-weight: 600;
+  // font-stretch: normal;
+  // font-style: normal;
+  // line-height: 1.6;
+  // letter-spacing: normal;
+  // text-align: left;
+  // color: #354463;
+}
+.label {
+  // max-width: 242px;
+  // height: 38px;
+  // margin: 4px 8px 0 0;
+  // font-family: OpenSans;
+  // font-size: 13px;
+  // font-weight: normal;
+  // font-stretch: normal;
+  // font-style: normal;
+  // line-height: 1.54;
+  // letter-spacing: normal;
+  // text-align: left;
+  // color: #354463;
+}
+.Address {
+  // margin: 0px;
+}
+.Direction {
+  max-width: 150px;
+  align-items: center;
+}
+.Directionlabel {
+  max-width: 56px;
+  height: 18px;
+  margin: 6px 0 0;
+  font-family: OpenSans;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.62;
+  letter-spacing: normal;
+  text-align: center;
+  color: #354463;
+}
+.centerField {
+  max-width: 110px;
+  align-items: center;
+}
+
+.Details {
+  font-size: 13px;
+  color: #354463;
+}
+
+.headerDivider {
+  background-color: #cddae0;
+  border: 0 none;
+  color: #cddae0;
+  height: 1.5px;
+}
+
+.labelStyle {
+  font-size: 14px;
+  color: #354463;
+  width: 80px;
+}
+
+.flexStart {
+  align-items: flex-start;
+}
+
+.textAlignCenter {
+  text-align: center;
+}
+
+.circle {
+  background: #eff1f6;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}

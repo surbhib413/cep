@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_Smartfleet_form" width="26" height="26" data-name="W/Icons/Smartfleet form" viewBox="0 0 26 26">
+    <defs>
+        <style>
+            .cls-2,.cls-3{fill:none;stroke:#0369dd;stroke-linecap:round}.cls-2{stroke-linejoin:round;stroke-width:2px}.cls-3{stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21126" fill="none" d="M0 0H26V26H0z" data-name="Rectangle 21126"/>
+    <g id="Group_23386" data-name="Group 23386" transform="translate(-135 -119)">
+        <g id="clipboard" transform="translate(134 118)">
+            <path id="Path_23096" d="M18.4 4h2.4a2.423 2.423 0 0 1 2.4 2.444v17.112A2.423 2.423 0 0 1 20.8 26H6.4A2.423 2.423 0 0 1 4 23.556V6.444A2.423 2.423 0 0 1 6.4 4h2.4" class="cls-2" data-name="Path 23096"/>
+            <rect id="Rectangle_21096" width="8" height="4" class="cls-2" data-name="Rectangle 21096" rx="1" transform="translate(9.6 2)"/>
+        </g>
+        <g id="Group_23329" data-name="Group 23329" transform="translate(.5 -1.5)">
+            <path id="Path_23097" d="M-78.1-939.882h10.3" class="cls-3" data-name="Path 23097" transform="translate(219.601 1070.382)"/>
+            <path id="Path_23098" d="M-78.1-939.882h10.3" class="cls-3" data-name="Path 23098" transform="translate(219.601 1075.024)"/>
+            <path id="Path_23099" d="M-78.1-939.882h10.3" class="cls-3" data-name="Path 23099" transform="translate(219.601 1079.666)"/>
+        </g>
+    </g>
+</svg>

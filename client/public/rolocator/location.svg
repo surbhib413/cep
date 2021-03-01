@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_3462_7" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-4{stroke:#0369dd;stroke-width:1.6px;stroke-linecap:round}
+        </style>
+    </defs>
+    <g id="Group_30037">
+        <path id="Rectangle_21650" d="M0 0H20V20H0z" class="cls-1"/>
+        <g id="Group_30039" transform="translate(1 1)">
+            <g id="Ellipse_2266" fill="none" stroke="#0369dd" stroke-width="1.6px" transform="translate(2.683 3.07)">
+                <circle cx="6.317" cy="6.317" r="6.317" stroke="none"/>
+                <circle cx="6.317" cy="6.317" r="5.517" class="cls-1"/>
+            </g>
+            <circle id="Ellipse_2267" cx="2.871" cy="2.871" r="2.871" fill="#0369dd" transform="translate(6.129 6.516)"/>
+            <g id="Group_30037-2" transform="translate(9.001)">
+                <path id="Path_25914" d="M8641.5 1072.4v-3.07" class="cls-4" transform="translate(-8641.5 -1069.327)"/>
+                <path id="Path_25915" d="M8641.5 1072.354v-2.735" class="cls-4" transform="translate(-8641.5 -1054.353)"/>
+            </g>
+            <g id="Group_30038" transform="rotate(90 4.5 13.5)">
+                <path id="Path_25914-2" d="M0 3.07V0" class="cls-4"/>
+                <path id="Path_25915-2" d="M0 2.735V0" class="cls-4" transform="translate(0 15.265)"/>
+            </g>
+        </g>
+    </g>
+</svg>

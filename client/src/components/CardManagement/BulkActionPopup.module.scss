@@ -1,0 +1,36 @@
+.confirmationContainer {
+  .cursorPointer {
+    cursor: pointer;
+  }
+  .noOpacity {
+    opacity: 0;
+  }
+  .popStyles {
+    color: #0257a3;
+  }
+  .dialogTitle {
+    font-size: 20px;
+    font-weight: 600;
+    @media (max-width: 600px) {
+      font-size: 18px;
+    }
+  }
+}
+.PINSetSuccessful {
+  width: 172px;
+  height: 27px;
+  margin: 0 182px 24px;
+  font-family: OpenSans;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #0257a3;
+}  
+.fuelTypeLabel{
+  font-size: 13px;
+  white-space: nowrap
+}

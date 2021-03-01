@@ -1,0 +1,84 @@
+$color-active-btn: #0369dd;
+$color-inactive-btn: #eff1f6;
+
+.mainGridContainer {
+  // display: flex;
+  background-color: #fff;
+  // padding: 0 !important;
+}
+
+@media screen and (min-width: 768px) {
+  .mainGridContainer {
+    display: flex;
+  }
+  .contentContainer {
+    padding-left: 40px;
+  }
+}
+
+.mainCard {
+  position: relative;
+  // padding: 13px;
+  // height: 170px;
+  border-radius: 12px;
+  background-color: #3bb7cd;
+
+  .cardBg {
+    width: 100%;
+  }
+}
+
+  .heading {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .backToMyProfile {
+    cursor: pointer;
+    // min-width: 50px;
+  }
+  .secDivider {
+    height: 2px;
+    background-color: #cddae0;
+  }
+
+  .headerDivider {
+    background-color: #ffffff00;
+    border: 0 none;
+    color:#ffffff00;
+    height: 2px;
+    margin: 12px 0;
+  }
+
+  .selectMarginBottom {
+    // @media (min-width: 500px) {
+    margin-bottom: 10px;
+    // }
+    // border: solid 1px #cddae0;
+  }
+
+  .businessInfoAreaOfOperationsCheckbox {
+    // width: 100%;
+    display: inline-block;
+  }
+
+  .backToMyProfile {
+    cursor: pointer;
+  }
+
+  .spacing{
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 17px;
+  }
+
+  .editIcon{
+    margin-left: 20px;
+    @media (max-width: 600px) {
+      // float: right;
+      //margin-left:92px;
+      float: right;
+      margin-top: 6px;
+
+      }
+  }

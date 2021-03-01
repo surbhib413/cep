@@ -1,0 +1,214 @@
+// START | COMMON CSS
+.mainGridContainer {
+  background-color: #fff;
+  min-height: 100vh;
+}
+ 
+@media screen and (min-width: 600px) {
+  .mainGridContainer {
+    display: flex;
+  }
+  .contentContainer {
+    padding-left: 40px;
+  }
+}
+
+.padTop{
+  padding-top: 40px;
+  @media (max-width: 600px) {
+    padding-top: 20px;
+  }
+}
+
+.sectionHeading {
+  font-size: 20px;
+  font-weight: bold;
+  @media (max-width: 600px) {
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+.changePassLink {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.backToMyProfile {
+  cursor: pointer;
+}
+.secDivider {
+  height: 2px;
+  background-color: #cddae0;
+}
+
+@media (min-width: 600px) {
+  .singleRow {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+// END | COMMON CSS
+
+
+// START | MY PROFILE
+// .changePassLink {
+//   text-decoration: underline;
+//   cursor: pointer;
+// }
+// .backToMyProfile {
+//   cursor: pointer;
+// }
+// .secDivider {
+//   height: 2px;
+//   background-color: #cddae0;
+// }
+.profileImgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0 15px 0;
+
+  .profileImg {
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    object-fit: cover;
+  }
+
+  .defaultImg {
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    background-color: rgba(3, 105, 221, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3.5rem;
+    color: #0369dd;
+  }
+}
+
+// .imgWrapper {
+//   position: relative;
+//   .cameraWrapper {
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     transform: translate(-50%, -50%);
+//     opacity: 0.8;
+//     background-color: #fff;
+//     width: 60px;
+//     height: 60px;
+//     border-radius: 50%;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     cursor: pointer;
+//   }
+// }
+
+.profImgBtn {
+  text-transform: capitalize;
+  font-weight: 500;
+  letter-spacing: normal;
+  min-width: 100px;
+}
+.profImgIcon {
+  width: 15px;
+}
+
+.greyBg {
+  background-color: #eff1f6;
+  fieldset {
+    border: transparent;
+  }
+}
+
+.profileActionBtns {
+  float: right;
+  margin-top: 40px;
+}
+
+@media screen and (max-width: 600px) {
+  .profileActionBtns {
+    float: none;
+    display: flex;
+    margin-top: 10px;
+  }
+  .profileActionBtns span{
+    display: flex;
+    width: 100%;
+  }
+  .profileActionBtns .passwordSubmitBtn {
+    margin-top: 70px;
+  }
+}
+
+
+.inputPassContainer {
+  display: flex;
+  position: relative;
+}
+.tipsContainer {
+  padding: 18px 30px;
+  border-radius: 4px;
+  background-color: #eff3fa;
+  color: #354463;
+  font-size: 12px !important;
+}
+.passShould {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.modalContent {
+  padding: 35px 80px !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.passwordMsg {
+  font-size: 18px;
+  font-weight: 600;
+  color: #0257a3;
+}
+.passwordSuccessImg {
+  width: 100%;
+  padding: 10px 30px;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+.passwordMsgSub {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.backToSignInBtn {
+  font-size: 11px;
+}
+
+@media screen and (max-width: 600px) {
+  .modalContent {
+    padding: 35px 50px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .passwordMsg {
+    text-align: center;
+    font-size: 16px;
+  }
+  .passwordSuccessImg {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px 40px;
+  } 
+}
+// END | MY PROFILE

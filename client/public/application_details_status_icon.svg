@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_35_Application_Details" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-4{fill:none}.cls-3,.cls-4{stroke:#354463;stroke-linecap:round}.cls-3{stroke-linejoin:round}.cls-3,.cls-4{stroke-width:1.4px}
+        </style>
+    </defs>
+    <path id="Rectangle_21626" d="M0 0H35V35H0z" class="cls-1"/>
+    <g id="Group_29948" transform="translate(-337 -264)">
+        <circle id="Ellipse_2253" cx="17.5" cy="17.5" r="17.5" fill="#dfe5ed" transform="translate(337 264)"/>
+        <g id="W_Icon_Credit_Mgmnt" transform="translate(346 272)">
+            <g id="Credit_Management" transform="translate(0 1)">
+                <path id="Rectangle_21191" d="M0 0H18V18H0z" class="cls-1"/>
+                <g id="credit-card" transform="translate(.9 2.7)">
+                    <rect id="Rectangle_21190" width="16.2" height="12.6" class="cls-3" rx="2"/>
+                    <path id="Line_1678" d="M0 0L16.2 0" class="cls-3" transform="translate(0 4.725)"/>
+                </g>
+            </g>
+            <path id="Path_25453" d="M3247.8 4003.093h7.668" class="cls-4" transform="translate(-3244.033 -3989.414)"/>
+            <path id="Path_25454" d="M3247.8 4002.405h3.041" class="cls-4" transform="translate(-3243.834 -3991.145)"/>
+            <g id="Group_30508" transform="translate(6971 12.892)">
+                <g id="Ellipse_2311" fill="#dfe5ed" stroke="#354463" stroke-width="1.3px" transform="translate(-6963 -12.892)">
+                    <circle cx="6" cy="6" r="6" stroke="none"/>
+                    <circle cx="6" cy="6" r="5.35" class="cls-1"/>
+                </g>
+                <g id="W_Icons_Check" transform="translate(-6960 -9.892)">
+                    <path id="Rectangle_21114" d="M0 0H6V6H0z" class="cls-1"/>
+                    <path id="check" fill="none" stroke="#354463" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3px" d="M8.843 6l-3.33 3.33L4 7.816" transform="translate(-3.243 -4.638)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

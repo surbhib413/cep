@@ -1,0 +1,185 @@
+$color-greyText: #354463;
+
+.alertsNotificationsLbl {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.markReadLbl {
+  font-size: 12px;
+  font-weight: bold;
+  color: #296bff;
+  text-align: right;
+  @media only screen and (max-width: 786px) {
+    padding-top:7px;
+  }
+}
+
+.sectionHeader {
+  //width: 358px;
+  height: 36px;
+  background-color: #eff1f6;
+}
+
+.todayLbl {
+  font-size: 14px;
+  color: #354463;
+}
+
+.cursorPointer {
+  cursor: pointer;
+}
+
+.textAlignCenter {
+  text-align: center;
+}
+
+.textAlignLeft {
+  text-align: left;
+}
+
+.textAlignRight {
+  text-align: right;
+}
+
+.iconAlign {
+  text-align: center;
+  padding-left: 1.5rem;
+}
+
+.headerDivider {
+  background-color: #cddae0;
+  border: 0 none;
+  color: #cddae0;
+  height: 1px;
+  margin: 0;
+}
+
+.notificationTitle {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.redirectlink {
+  font-size: 12px;
+  font-weight: bold;
+  color: #296bff;
+}
+
+.dateTimeLbl {
+  opacity: 0.6;
+  font-size: 12px;
+  text-align: center;
+}
+
+.AlertsStyle {
+  min-width: 205px;
+  //height: 27px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  //line-height: 1.35;
+  letter-spacing: normal;
+  text-align: left;
+  color: $color-greyText;
+  @media only screen and (max-width: 576px) {
+    min-width: 165px;
+  }
+}
+
+.allButton {
+  border-radius: 4px 0 0 4px !important;
+  @media only screen and (max-width: 576px) {
+    flex: 1 0px;
+  }
+}
+
+.unreadButton {
+  border-radius: 0 4px 4px 0 !important;
+  @media only screen and (max-width: 576px) {
+    flex: 1 0px;
+  }
+}
+
+.readButton {
+  border-radius: 0 4px 4px 0 !important;
+  @media only screen and (max-width: 576px) {
+    flex: 1 0px;
+  }
+}
+.cursorPointerNone {
+  cursor: none;
+}
+.submitCard {
+  padding: 0.5rem 0.5rem;
+  @media only screen and (min-width: 600px) {
+    height: 100%;
+    padding: 0.5rem 0.5rem;
+  }
+  text-align: start;
+  flex: 1;
+}
+
+.alignContentCenter {
+  align-items: center;
+  text-align: center;
+}
+
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  //width: 250px; /* 0 width - change this with JavaScript */
+  position: relative; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  //background-color: #111; /* Black*/
+  //overflow-x: hidden; /* Disable horizontal scroll */
+  //padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  font-size: 36px;
+  width: 100%;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#flexMain {
+  transition: margin-left 0.5s;
+  padding: 20px;
+}
+
+.mainNav {
+  transition: margin-left 0.5s;
+  padding: 20px;
+  position: relative;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}

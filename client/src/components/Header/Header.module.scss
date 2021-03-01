@@ -1,0 +1,30 @@
+.appBarContainer {
+  .searchContainer {
+    max-width: 84px;
+    .searchTextInput {
+      color: white;
+      font-weight: 600;
+      margin-left: 9px;
+    }
+    .FuelServicesMenuContainer {
+      height: 100%;
+    }
+    .LanguageMenuContainer {
+      height: 100%;
+    }
+    .HelpMenuContainer {
+      height: 100%;
+    }
+  }
+  .cursorPointer {
+    cursor: pointer;
+  }
+}
+
+.noOutline {
+  outline: 0 !important;
+}
+
+.notificationPopupPosition{
+  position: relative;
+}

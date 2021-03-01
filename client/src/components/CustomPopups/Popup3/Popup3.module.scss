@@ -1,0 +1,18 @@
+.confirmationContainer {
+  .cursorPointer {
+    cursor: pointer;
+  }
+  .noOpacity {
+    opacity: 0;
+  }
+  .popStyles {
+    color: #0257a3;
+  }
+  .dialogTitle {
+    font-size: 20px;
+    font-weight: 600;
+    @media (max-width: 600px) {
+      font-size: 18px;
+    }
+  }
+}

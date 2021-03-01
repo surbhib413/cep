@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="w_icon_petromiles_redeemed" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <style>
+            .cls-3,.cls-4{fill:none}.cls-4{stroke:#00b14b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.7px}
+        </style>
+    </defs>
+    <path id="Path_26059" fill="#ddfdf4" d="M28 0A28 28 0 1 1 0 28 28 28 0 0 1 28 0z"/>
+    <g id="W_Icon_Gift" transform="translate(12 12)">
+        <g id="Group_23191" style="isolation:isolate">
+            <g id="Group_23171">
+                <g id="Group_23169">
+                    <path id="Rectangle_21035" d="M0 0H32V32H0z" class="cls-3"/>
+                </g>
+            </g>
+            <g id="Group_23173" transform="translate(1.75 .875)">
+                <path id="Path_22921" d="M27.1 12v14.438H4V12" class="cls-4" transform="translate(-1.113 2.438)"/>
+                <path id="Rectangle_21054" d="M0 0H28.875V7.219H0z" class="cls-4" transform="translate(0 7.219)"/>
+                <path id="Line_14" d="M0 21.656L0 0" class="cls-4" transform="translate(14.438 7.219)"/>
+                <path id="Path_22922" d="M15.106 9.219h-6.5A3.609 3.609 0 1 1 8.609 2c5.053 0 6.497 7.219 6.497 7.219z" class="cls-4" transform="translate(-.669 -2)"/>
+                <path id="Path_22923" d="M12 9.219h6.5A3.609 3.609 0 0 0 18.5 2C13.444 2 12 9.219 12 9.219z" class="cls-4" transform="translate(2.438 -2)"/>
+            </g>
+            <g id="Group_23172">
+                <g id="Group_23169-2">
+                    <path id="Rectangle_21035-2" d="M0 0H32V32H0z" class="cls-3"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

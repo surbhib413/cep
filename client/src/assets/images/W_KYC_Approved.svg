@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="30" viewBox="0 0 116 30">
+    <path fill="#fff" d="M0 0H116V30H0z"/>
+    <text fill="#01d195" font-family="OpenSans-Bold, Open Sans" font-size="12px" font-weight="700" letter-spacing="0.009em" transform="translate(72 19.496)">
+        <tspan x="-32.49" y="0">APPROVED</tspan>
+    </text>
+    <g>
+        <path fill="#01d195" d="M10 0A10 10 0 1 1 0 10 10 10 0 0 1 10 0z" transform="translate(12 5)"/>
+        <g fill="none">
+            <path d="M0 0H11.566V11.566H0z" transform="translate(12 5) translate(4.255 4.255)"/>
+            <path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5px" d="M13.253 6l-6.362 6.361L4 9.47" transform="translate(12 5) translate(4.255 4.255) translate(-2.554 -3.398)"/>
+        </g>
+    </g>
+</svg>

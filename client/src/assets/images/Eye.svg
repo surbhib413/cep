@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.475" height="20.475" viewBox="0 0 20.475 20.475">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#a0aab0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <g id="eye" transform="translate(-1.763 -1.763)">
+        <path id="Rectangle_21111" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 21111" transform="translate(2 2)"/>
+        <path id="Off:_Path_23107" d="M14.86 15.405A8.239 8.239 0 0 1 10 17.091c-5.727 0-9-6.545-9-6.545a15.1 15.1 0 0 1 4.14-4.86M8.282 4.2A7.462 7.462 0 0 1 10 4c5.727 0 9 6.545 9 6.545a15.137 15.137 0 0 1-1.767 2.61m-5.5-.875a2.455 2.455 0 1 1-3.468-3.469" class="cls-2" data-name="Off: Path 23107" transform="translate(2 1.5)"/>
+        <path id="Off:_Line_1671" d="M0 0L18 18" class="cls-2" data-name="Off: Line 1671" transform="translate(3 3)"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_Delete" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#97a2a8;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21128" fill="none" d="M0 0H24V24H0z"/>
+    <g id="pause-circle" transform="translate(1.001 1)">
+        <circle id="Ellipse_2582" cx="9" cy="9" r="9" class="cls-2" transform="translate(2 2)"/>
+        <path id="Line_1713" d="M0 6L0 0" class="cls-2" transform="translate(9.2 8)"/>
+        <path id="Line_1714" d="M0 6L0 0" class="cls-2" transform="translate(12.8 8)"/>
+    </g>
+</svg>

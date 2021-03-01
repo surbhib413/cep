@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93 93">
+    <g transform="translate(-1088 -324)">
+        <circle cx="46.5" cy="46.5" r="46.5" fill="#0067e5" opacity="0.169" transform="translate(1088 324)"/>
+        <circle cx="33.5" cy="33.5" r="33.5" fill="#0067e5" opacity="0.241" transform="translate(1101 337)"/>
+        <circle cx="20.5" cy="20.5" r="20.5" fill="#0067e5" transform="translate(1114 350)"/>
+        <text fill="#fff" font-family="OpenSans-Bold, Open Sans" font-size="14px" font-weight="700" transform="translate(1135 376)">
+            <tspan x="-7.991" y="0"></tspan>
+        </text>
+    </g>
+</svg>

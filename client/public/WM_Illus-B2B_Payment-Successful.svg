@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="125" viewBox="0 0 133 125">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}.cls-6{fill:#2f84cc}.cls-7{fill:#99ccf7}.cls-10{fill:#4085c2}.cls-11{fill:#40a6ff}
+        </style>
+    </defs>
+    <g id="WM_Illus-B2B_Payment-Successful">
+        <g id="Group_23453" transform="translate(5.727 1)">
+            <circle id="Ellipse_2217" cx="62.5" cy="62.5" r="62.5" fill="#daf5fd" transform="translate(-.727 -1)"/>
+        </g>
+        <g id="Group_23456" transform="translate(51.438 86.997)">
+            <rect id="Rectangle_21187" width="32" height="30" fill="#08f" rx="2" transform="translate(.062 .003)"/>
+            <path id="Rectangle_21188" d="M0 0H4V14H0z" class="cls-3" transform="translate(7.062 11.003)"/>
+        </g>
+        <rect id="Rectangle_21170" width="50" height="77" fill="#6db1eb" rx="4" transform="translate(42.5 17)"/>
+        <path id="Path_26024" fill="#72f243" d="M3 0h34a3 3 0 0 1 3 3v10a3 3 0 0 1-3 3H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3z" transform="translate(47.5 30)"/>
+        <g id="Group_30074" transform="translate(-816 -3275)">
+            <rect id="Rectangle_21175" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(863.79 3328.414)"/>
+            <rect id="Rectangle_21176" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(878.233 3328.414)"/>
+            <rect id="Rectangle_21177" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(892.676 3328.414)"/>
+            <rect id="Rectangle_21178" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(863.79 3337.378)"/>
+            <rect id="Rectangle_21179" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(878.233 3337.378)"/>
+            <rect id="Rectangle_21180" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(892.676 3337.378)"/>
+            <rect id="Rectangle_21181" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(863.79 3346.343)"/>
+            <rect id="Rectangle_21182" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(878.233 3346.343)"/>
+            <rect id="Rectangle_21183" width="10.459" height="4.98" class="cls-6" rx="2.49" transform="translate(892.676 3346.343)"/>
+        </g>
+        <rect id="Rectangle_21184" width="10.459" height="5.976" class="cls-7" rx="2.988" transform="translate(47.789 82.299)"/>
+        <rect id="Rectangle_21185" width="10.459" height="5.976" class="cls-7" rx="2.988" transform="translate(62.232 82.299)"/>
+        <rect id="Rectangle_21186" width="10.459" height="5.976" class="cls-7" rx="2.988" transform="translate(76.676 82.299)"/>
+        <rect id="Rectangle_21189" width="40" height="3" fill="#00305a" rx="1.5" transform="translate(47.5 22)"/>
+        <path id="Union_21" d="M0 5.449l2.244-2.244 2.083 2.052 1.6-1.6L9.616 0l2.244 2.244-5.93 5.961-1.6 1.6z" class="cls-3" transform="translate(61.709 32.545)"/>
+        <path id="Paper_Receipt" d="M1623.993 2800.033h31.852V2785.6l-2.791.827-2.576-.827-2.321.827-2.232-.827-2.289.827-2.41-.827-1.968.827-1.909-.827-2.464.827-2.225-.827-2 .827-2.4-.827-1.884.827-2.392-.827z" class="cls-3" transform="translate(-1572.438 -2776.583)"/>
+        <circle id="Ellipse_2238" cx="2" cy="2" r="2" fill="#9bccf5" transform="translate(121 16)"/>
+        <circle id="Ellipse_2239" cx="2" cy="2" r="2" class="cls-10" transform="translate(27 3)"/>
+        <circle id="Ellipse_2240" cx="1.5" cy="1.5" r="1.5" class="cls-10" transform="translate(110 122)"/>
+        <circle id="Ellipse_2241" cx="2.5" cy="2.5" r="2.5" class="cls-11" transform="translate(128 84)"/>
+        <circle id="Ellipse_2242" cx="1.5" cy="1.5" r="1.5" class="cls-11" transform="translate(0 51)"/>
+        <circle id="Ellipse_2243" cx="2" cy="2" r="2" fill="#9bccf5" opacity="0.749" transform="translate(8 107)"/>
+    </g>
+</svg>

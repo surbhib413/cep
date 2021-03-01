@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.55" height="22.55" viewBox="0 0 22.55 22.55">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Direction" transform="translate(.275 .275)">
+        <path id="Rectangle_21749" d="M0 0H22V22H0z" class="cls-1"/>
+        <g id="Group_30902" stroke="#0369dd" stroke-width="1.75px" transform="translate(2.2 2.2)">
+            <g id="Rectangle_21641" fill="none" transform="rotate(-45 10.623 4.4)">
+                <rect width="12.445" height="12.445" stroke="none" rx="2"/>
+                <rect width="14.195" height="14.195" x="-.875" y="-.875" class="cls-1" rx="2.875"/>
+            </g>
+            <g id="Group_29966" stroke-linecap="round" transform="translate(5.698 6.038)">
+                <path id="Path_25909" fill="#fff" stroke-linejoin="round" d="M1415.351 456.329V453.4h6.19" transform="translate(-1415.351 -451.079)"/>
+                <path id="Path_25910" fill="none" d="M1427.058 451.4l2.426-2.426-2.426-2.426" transform="translate(-1423.095 -446.546)"/>
+            </g>
+        </g>
+    </g>
+</svg>

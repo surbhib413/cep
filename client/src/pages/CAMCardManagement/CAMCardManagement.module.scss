@@ -1,0 +1,84 @@
+$color-greyText: #354463;
+$color-fileContainerBackground: #f0f6f8;
+$color-radioBtnText: #6e7a93;
+$color-headerDividerBackground: #eee;
+$color-downloadFileText: blue;
+.headerPaper {
+  position: relative;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+  // padding: 1rem 2rem;
+  overflow-wrap: break-word;
+  // @media (max-width: 600px) {
+  //   padding: 1rem 2rem;
+  // }
+  .cursorPointer {
+    cursor: pointer;
+  }
+
+  .radioLabel {
+    font-weight: bolder;
+    margin-bottom: 0px;
+  }
+
+  .virtualRadioBtnText {
+    margin-left: 35px;
+    width: 440px;
+    font-size: 14px;
+    @media (max-width: 600px) {
+      width: 246px;
+    }
+  }
+  .physicalRadioBtnText {
+    margin-left: 35px;
+    width: 415px;
+    font-size: 14px;
+    @media (max-width: 600px) {
+      width: 256px;
+    }
+  }
+
+  .cardStyle {
+    margin: 32px 0 0 0;
+    padding: 24px 16px;
+    border-radius: 4px;
+    box-shadow: 0 2px 20px 0 #eff1f6;
+    background-color: white;
+    @media (min-width: 600px) {
+      width: 540px;
+      height: 330px;
+      padding: 48px 72px;
+    }
+  }
+
+  .linkStyle {
+    font-size: 14px;
+    font-weight: 600;
+    color: #0369dd;
+    text-decoration: underline;
+    cursor: pointer;
+    //padding: 0 2.25rem 0 2.25rem;
+    margin-right: 20%;
+    @media (max-width: 600px) {
+      margin-left: 35px;
+      padding: 0px;
+    }
+  }
+
+  .btnStyle {
+    width: 300px;
+    height: 50px;
+  }
+
+  .addLabel {
+    font-size: 28px;
+    font-weight: 500;
+    @media (max-width: 600px) {
+      font-size: 20px;
+    }
+  }
+
+  .choiceLabel {
+    font-size: 18px;
+    font-weight: bold;
+  }
+}

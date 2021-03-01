@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="In_and_out" width="20" height="21.739" viewBox="0 0 20 21.739">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-width:1.75px;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="Group_31005">
+        <path id="Rectangle_21035" fill="none" d="M0 0H20V20H0z"/>
+    </g>
+    <g id="Group_31006" transform="translate(2.743 1.111)">
+        <path id="Path_22925" d="M9.516 22.753H5.172A2.184 2.184 0 0 1 3 20.558V5.195A2.184 2.184 0 0 1 5.172 3h4.344" class="cls-2" transform="translate(-3 -3)"/>
+        <g id="Group_31004" transform="translate(3.687 3.687)">
+            <g id="Group_31002" transform="translate(1.896 6.847)">
+                <path id="Path_22926" d="M16 14.373l3.687-3.687L16 7" class="cls-2" transform="translate(-8.943 -7)"/>
+                <path id="Path_26076" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-width="1.75px" d="M8.744 0H-2" transform="translate(2 3.687)"/>
+            </g>
+            <g id="Group_31003" transform="rotate(180 5.372 3.687)">
+                <path id="Path_22926-2" d="M0 7.373l3.687-3.686L0 0" class="cls-2" transform="translate(7.057)"/>
+                <path id="Line_15" d="M8.848 0L0 0" class="cls-2" transform="translate(0 3.687)"/>
+            </g>
+        </g>
+    </g>
+</svg>

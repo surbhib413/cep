@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-4{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <g id="Group_31046" transform="translate(-138 -840)">
+        <circle id="Ellipse_2265" cx="20" cy="20" r="20" fill="#dfe5ed" transform="translate(138 840)"/>
+        <g id="W_Icon_Box" transform="translate(148.667 850.667)">
+            <g id="Group_23189" style="isolation:isolate">
+                <path id="Rectangle_21035" fill="none" d="M0 0H20V20H0z"/>
+                <g id="box" transform="translate(2 1)">
+                    <path id="Path_22929" d="M19.137 14.551V7.379a1.793 1.793 0 0 0-.9-1.551l-6.272-3.586a1.793 1.793 0 0 0-1.793 0L3.9 5.828A1.793 1.793 0 0 0 3 7.379v7.172a1.793 1.793 0 0 0 .9 1.549l6.276 3.586a1.793 1.793 0 0 0 1.793 0l6.272-3.586a1.793 1.793 0 0 0 .896-1.549z" class="cls-4" transform="translate(-3 -2.002)"/>
+                    <path id="Path_22930" d="M3.27 6.96l7.83 4.527 7.823-4.527" class="cls-4" transform="translate(-3.028 -2.515)"/>
+                    <path id="Line_17" d="M0 9.037L0 0" class="cls-4" transform="translate(8.069 8.963)"/>
+                </g>
+                <path id="Path_26099" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-width="1.7px" d="M1189.5 1118.024l7.762 4.615v4.186" transform="translate(-1183 -1115)"/>
+            </g>
+        </g>
+    </g>
+</svg>

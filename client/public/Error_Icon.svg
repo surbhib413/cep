@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_Pop-up_Success-Error-Pending" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.5px}
+        </style>
+    </defs>
+    <path id="Rectangle_21734" fill="none" d="M0 0H24V24H0z"/>
+    <g id="Icon_Pop-up_Success-Error-Pending-2">
+        <g id="Group_29809" transform="translate(-247 -2016)">
+            <circle id="Ellipse_2249" cx="12" cy="12" r="12" fill="#e21e1e" transform="translate(247 2016)"/>
+            <path id="Line_1694" d="M8.45 0L0 8.45" class="cls-3" transform="translate(254.775 2023.774)"/>
+            <path id="Line_1695" d="M0 0L8.45 8.45" class="cls-3" transform="translate(254.775 2023.774)"/>
+        </g>
+    </g>
+</svg>

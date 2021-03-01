@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="w_illustrations_popup-warning" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_21581" fill="none" d="M0 0H20V20H0z"/>
+    <g id="Group_30399">
+        <g id="Group_30400">
+            <circle id="Ellipse_2249" cx="10" cy="10" r="10" fill="#e21e1e"/>
+            <path id="Line_1694" d="M8 0L0 8" class="cls-3" transform="translate(6 6)"/>
+            <path id="Line_1695" d="M0 0L8 8" class="cls-3" transform="translate(6 6)"/>
+        </g>
+    </g>
+</svg>

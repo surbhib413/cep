@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Store_Pointer" width="32" height="37.075" viewBox="0 0 32 37.075">
+    <defs>
+        <style>
+            .cls-1{fill:#0369dd}
+        </style>
+    </defs>
+    <g id="Group_30975">
+        <circle id="Ellipse_2314" cx="16" cy="16" r="16" class="cls-1"/>
+        <path id="Path_26068" d="M18621.385 3132h9.98l-4.932 5.99z" class="cls-1" transform="translate(-18610.719 -3100.914)"/>
+    </g>
+    <g id="Group_30976" transform="translate(7.111 7.111)">
+        <path id="Rectangle_21771" fill="none" d="M0 0H17.778V17.778H0z"/>
+        <g id="Group_30796" transform="translate(2.222 1.481)">
+            <path id="Icon_metro-gas-station" fill="#fff" d="M20.456 9.845l.012-.012-3.01-3-.857.857 1.705 1.705a2.017 2.017 0 0 0 .719 3.9 2 2 0 0 0 .808-.17v5.826a.808.808 0 0 1-1.616 0v-3.635A1.616 1.616 0 0 0 16.6 13.7h-.808V8.043a1.616 1.616 0 0 0-1.616-1.616H9.328a1.616 1.616 0 0 0-1.616 1.616v12.929h8.081v-6.06h1.212v4.04a2.02 2.02 0 1 0 4.04 0v-7.677a2.029 2.029 0 0 0-.59-1.43zm-6.279 2.238H9.328v-4.04h4.848zm4.848 0a.808.808 0 1 1 .808-.808.81.81 0 0 1-.808.808z" transform="translate(-7.712 -6.427)"/>
+        </g>
+    </g>
+</svg>

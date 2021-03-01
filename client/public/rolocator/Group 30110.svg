@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-3{stroke:#6e7a93;stroke-linecap:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <g id="Group_30110" transform="rotate(180 2968 1410)">
+        <path id="Rectangle_21666" d="M0 0H20V20H0z" class="cls-1" transform="translate(5916 2800)"/>
+        <g id="Group_31008" transform="translate(4871.908 2162.987)">
+            <g id="Rectangle_21776" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75px">
+                <path stroke="none" d="M6.046 0a6.046 6.046 0 0 1 6.046 6.046v4.041H0V6.046A6.046 6.046 0 0 1 6.046 0z" transform="translate(1048 642.598)"/>
+                <path d="M6.046.875a5.171 5.171 0 0 1 5.171 5.171v3.121a.046.046 0 0 1-.046.046H.921a.046.046 0 0 1-.046-.046V6.046A5.171 5.171 0 0 1 6.046.875z" class="cls-1" transform="translate(1048 642.598)"/>
+            </g>
+            <path id="Path_26081" d="M4636.019 8747v3.327" class="cls-3" transform="translate(-3579.429 -8094.314)"/>
+            <path id="Path_26082" d="M4636.019 8747v3.327" class="cls-3" transform="translate(-3584.505 -8094.314)"/>
+            <path id="Path_26083" d="M4629.839 8705.638v-4.625" class="cls-3" transform="translate(-3575.986 -8063)"/>
+            <g id="noun_Charging_Station_789286" transform="translate(1053.012 645.651)">
+                <path id="Path_25933" fill="#6f7993" d="M13.274 9.628l-1.218 2.326a.188.188 0 0 1-.353-.117l.227-1.374-.971-.044h-.03a.256.256 0 0 1-.184-.133.253.253 0 0 1 0-.227l1.217-2.326a.189.189 0 0 1 .351.11l-.227 1.374.971.044h.03a.256.256 0 0 1 .179.145.252.252 0 0 1 .008.222z" transform="translate(-10.719 -7.639)"/>
+            </g>
+        </g>
+    </g>
+</svg>

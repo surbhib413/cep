@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icon_dashboard" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#0369dd;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="Rectangle_21035" fill="none" d="M0 0H20V20H0z"/>
+    <g id="grid" transform="translate(2 2)">
+        <path id="Rectangle_21037" d="M0 0H6.222V6.222H0z" class="cls-2"/>
+        <path id="Rectangle_21038" d="M0 0H6.222V6.222H0z" class="cls-2" transform="translate(9.778)"/>
+        <path id="Rectangle_21039" d="M0 0H6.222V6.222H0z" class="cls-2" transform="translate(9.778 9.778)"/>
+        <path id="Rectangle_21040" d="M0 0H6.222V6.222H0z" class="cls-2" transform="translate(0 9.778)"/>
+    </g>
+</svg>

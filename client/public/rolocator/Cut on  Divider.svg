@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20.75" viewBox="0 0 20 20.75">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#6e7a93;stroke-linecap:round;stroke-width:1.75px;stroke-linejoin:round}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Cut_on_Divider" transform="translate(0 .75)">
+        <path id="Rectangle_21659" d="M0 0H20V20H0z" class="cls-1"/>
+        <g id="Group_30055" transform="translate(1767 -7278)">
+            <g id="Group_26336" transform="translate(-1766 7279)">
+                <g id="Rectangle_21432" class="cls-2">
+                    <path d="M0 0H1.367V5.654H0z" class="cls-4" transform="translate(8.275)"/>
+                    <path d="M-0.875 -0.875H2.242V6.529H-0.875z" class="cls-1" transform="translate(8.275)"/>
+                </g>
+                <g id="Rectangle_21442" class="cls-2">
+                    <path d="M0 0H1.367V5.654H0z" class="cls-4" transform="translate(8.275 10.999)"/>
+                    <path d="M-0.875 -0.875H2.242V6.529H-0.875z" class="cls-1" transform="translate(8.275 10.999)"/>
+                </g>
+                <g id="Group_26336-2" transform="rotate(180 9 4.43)">
+                    <path id="Path_22926" d="M0 3.7l1.85-1.85L0 0" class="cls-2" transform="translate(3.69)"/>
+                    <path id="Line_15" d="M4.441 0L0 0" class="cls-2" transform="translate(0 1.85)"/>
+                </g>
+                <g id="Group_26337" transform="translate(0 7.607)">
+                    <path id="Path_22926-2" d="M0 3.7l1.85-1.85L0 0" class="cls-2" transform="translate(3.69)"/>
+                    <path id="Path_25455" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-width="1.75px" d="M4.541 0H-1" transform="translate(1 1.85)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+.confirmationContainer {
+  .cancelIconPos {
+    position: absolute;
+    right: 0;
+    margin-right: 2rem;
+    margin-top: -0.5rem;
+    @media only screen and (max-width: 576px) {
+      margin-right: 1rem;
+    }
+  }
+
+  .cursorPointer {
+    cursor: pointer;
+  }
+}

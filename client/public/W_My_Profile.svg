@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Profile_Nav-tile_My-Profile" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#0369dd;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <rect id="Rectangle_21762" width="36" height="36" fill="rgba(3,105,221,0.1)" rx="4"/>
+    <g id="W_Icon_User" transform="translate(8 8)">
+        <g id="Group_23200" transform="translate(3170 4789)">
+            <g id="user" transform="translate(-3172 -4791)">
+                <path id="Path_22933" d="M20 21.33v-2.11A4.114 4.114 0 0 0 16 15H8a4.114 4.114 0 0 0-4 4.22v2.11" class="cls-2" transform="translate(0 -.33)"/>
+                <circle id="Ellipse_11" cx="4" cy="4" r="4" class="cls-2" transform="translate(8 3)"/>
+            </g>
+            <g id="Group_23195" transform="translate(819 -825)">
+                <path id="Rectangle_21035" fill="none" d="M0 0H20V20H0z" transform="translate(-3989 -3964)"/>
+            </g>
+        </g>
+    </g>
+</svg>

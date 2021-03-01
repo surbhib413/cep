@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="21.024" viewBox="0 0 20 21.024">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-4{stroke:#6d7992;stroke-width:1.75px;stroke-linecap:round}.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="Bath" transform="translate(0 .875)">
+        <path id="Rectangle_21662" d="M0 0H20V20H0z" class="cls-1" transform="translate(0 .001)"/>
+        <g id="Group_31007" transform="translate(-535 -584.026)">
+            <g id="Group_31007-2" fill="none" transform="translate(536 588.902)">
+                <g id="Subtraction_7">
+                    <path d="M12.444 6.867a2.677 2.677 0 0 0-.37-.025H.4a2.852 2.852 0 0 0-.37.024A6.046 6.046 0 0 1 0 6.238a6.238 6.238 0 0 1 12.476 0c0 .209-.011.421-.031.628z" class="cls-6" transform="translate(1.568 .648)"/>
+                    <path fill="#6d7992" d="M10.578 5.092C10.07 3.17 8.317 1.75 6.238 1.75c-2.079 0-3.832 1.42-4.34 3.342h8.68m1.866 1.775c-.12-.017-.244-.025-.37-.025H.402c-.123 0-.248.008-.37.024C.01 6.658 0 6.446 0 6.238 0 2.798 2.798 0 6.238 0c3.44 0 6.238 2.798 6.238 6.238 0 .21-.01.42-.031.628v.001z" transform="translate(1.568 .648)"/>
+                </g>
+                <g id="Rectangle_21775" stroke="#6d7992" stroke-width="1.75px" transform="translate(0 5.885)">
+                    <rect width="15.817" height="4.046" class="cls-6" rx="2.023"/>
+                    <rect width="14.067" height="2.296" x=".875" y=".875" class="cls-1" rx="1.148"/>
+                </g>
+            </g>
+            <path id="Path_26077" d="M4133.137 8694.3v2.148" class="cls-4" transform="translate(-3585.684 -8093.152)"/>
+            <path id="Path_26078" d="M4133.137 8694.3v2.148" class="cls-4" transform="translate(-3592.672 -8093.152)"/>
+            <path id="Path_26079" d="M4133.137 8694.3v2.148" class="cls-4" transform="translate(-3588.994 -8093.152)"/>
+            <path id="Path_26080" fill="none" stroke="#6d7992" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75px" d="M4124.137 8652.024v-6h9.857" transform="translate(-3579.994 -8062)"/>
+        </g>
+    </g>
+</svg>

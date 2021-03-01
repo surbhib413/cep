@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="33" viewBox="0 0 78 33">
+    <g transform="translate(0 2)">
+        <rect width="78" height="33" fill="#fff0f0" rx="4" transform="translate(0 -2)"/>
+        <text fill="#e21e1e" font-family="OpenSans-Bold, Open Sans" font-size="12px" font-weight="700" letter-spacing="0.009em" transform="translate(39 19)">
+            <tspan x="-20.236" y="0">REJECT</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_VirtualCard" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:#6e7a93}
+        </style>
+    </defs>
+    <path id="Rectangle_21840" fill="rgba(255,255,255,0)" d="M0 0H24V24H0z"/>
+    <g id="Phone" transform="translate(5.16 1)">
+        <path id="Path_26688" d="M123.281 22h9.125a2.284 2.284 0 0 0 2.281-2.281V2.281A2.284 2.284 0 0 0 132.406 0h-9.125A2.284 2.284 0 0 0 121 2.281v17.438A2.284 2.284 0 0 0 123.281 22zm-.76-19.719a.761.761 0 0 1 .76-.76h9.125a.761.761 0 0 1 .76.76v17.438a.761.761 0 0 1-.76.76h-9.125a.761.761 0 0 1-.76-.76z" class="cls-2" transform="translate(-121)"/>
+        <path id="Path_26690" d="M211.748 61.5h2.99a.748.748 0 1 0 0-1.5h-2.99a.748.748 0 1 0 0 1.5z" class="cls-2" transform="translate(-206.41 -43.354)"/>
+    </g>
+</svg>

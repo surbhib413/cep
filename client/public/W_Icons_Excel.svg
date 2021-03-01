@@ -1,0 +1,28 @@
+<svg id="W_Icons_Excel" data-name="W/Icons/Excel" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #2e7d32;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_21129" data-name="Rectangle 21129" class="cls-1" width="28" height="28"/>
+  <g id="Group_23388" data-name="Group 23388" transform="translate(-11043.875 -926.313)">
+    <g id="Group_23388-2" data-name="Group 23388" transform="translate(11046.875 928.063)">
+      <path id="Path_23117" data-name="Path 23117" class="cls-2" d="M22,7.333H14.667V0H1.22A1.225,1.225,0,0,0,0,1.212v22.02a1.213,1.213,0,0,0,1.214,1.212H20.787A1.222,1.222,0,0,0,22,23.214Zm0-1.222L15.889,0V6.111Z"/>
+    </g>
+    <g id="insert" transform="translate(11049.631 939.778)">
+      <path id="Path_23130" data-name="Path 23130" class="cls-3" d="M116.827,6.478H107.7a1.032,1.032,0,0,1-1.031-1.031V1.031A1.032,1.032,0,0,1,107.7,0h9.128a1.032,1.032,0,0,1,1.031,1.031V5.447A1.032,1.032,0,0,1,116.827,6.478ZM107.7.883a.147.147,0,0,0-.147.147V5.447a.147.147,0,0,0,.147.147h9.128a.147.147,0,0,0,.147-.147V1.031a.147.147,0,0,0-.147-.147Zm0,0" transform="translate(-104.029)"/>
+      <path id="Path_23132" data-name="Path 23132" class="cls-3" d="M293.774,6.478a.442.442,0,0,1-.442-.442V.442a.442.442,0,1,1,.883,0V6.036A.442.442,0,0,1,293.774,6.478Zm0,0" transform="translate(-285.54)"/>
+      <path id="Path_23133" data-name="Path 23133" class="cls-3" d="M117.415,102.215H107.11a.442.442,0,0,1,0-.883h10.306a.442.442,0,0,1,0,.883Zm0,0" transform="translate(-104.029 -98.535)"/>
+    </g>
+  </g>
+</svg>

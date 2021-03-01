@@ -1,0 +1,66 @@
+// START | NAVIGATION
+.singleNav {
+  display: flex;
+  padding: 12px 12px;
+  margin: 10px 0px;
+  border-radius: 4px;
+  box-shadow: 0 2px 15px 0 #e5e8ef;
+  cursor: pointer;
+  border: 2px solid transparent;
+  position : relative;
+
+  .title{
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .subtitle{
+    font-size: 13px;
+    color: #6e7a93;
+  }
+}
+
+.singleNav:hover {
+  border: 2px solid #0369dd;
+}
+.activetab {
+  border: 2px solid #0369dd;
+  .title{
+    color: #0369dd;
+  }
+}
+
+.iconBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  border-radius: 4px;
+  background-color: rgba(3, 105, 221, 0.1);
+}
+
+.activeTab {
+  border: 2px solid #0369dd;
+}
+
+.iconNext{
+  display: none;
+  @media (max-width: 600px) {
+    position: absolute;
+    right: 4%;
+    top: 36%;
+    height: 20px;
+    display:block;
+  }
+}
+
+.activeParent{
+  border: 2px solid #0369dd;
+}
+
+.activeChild {
+  color : #0369dd;
+}
+// END | NAVIGATION

@@ -1,0 +1,161 @@
+.headerPaper {
+  position: relative;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+  // padding: 1rem 2rem;
+  overflow-wrap: break-word;
+  // @media (max-width: 600px) {
+  //   padding: 1rem 2rem;
+  // }
+
+  .customAccordionDetails {
+    background-color: rgba(230, 241, 254, 0.25);
+  }
+
+  .applicationDetailsContainer {
+    border-radius: 4px;
+    background-color: #f6f8fb;
+    .row {
+      border-top: 1.5px solid #cddae0;
+    }
+  }
+
+  .headerDivider {
+    background-color: #eee;
+    border: 0 none;
+    color: #eee;
+    height: 2px;
+    margin: 48px 0;
+    @media (max-width: 600px) {
+      margin: 32px 0;
+    }
+  }
+
+  .businessPanDiv {
+    width: 75%;
+    background-color: #f6f8fb;
+    padding: 8px;
+    margin-left: 4px;
+    @media (max-width: 600px) {
+      width: 100%;
+    }
+  }
+  .noDocument {
+    border-radius: 4px;
+    border: 1px solid #cddae0;
+    font-size: 0.875rem;
+    color: #354463;
+    margin-left: 4px;
+  }
+  .businessPanTitle {
+    font-size: 13px;
+    font-weight: 600;
+    color: #354463;
+  }
+  .businessPanText {
+    font-size: 9px;
+    color: #97a2a8;
+  }
+  .approvalDiv {
+    border-radius: 3px;
+    box-shadow: 0.5px 3px 10px 0 rgba(119, 119, 119, 0.1);
+  }
+  .backToEnrolmentBtn {
+    min-width: 271px;
+    @media (max-width: 600px) {
+      min-width: 130px;
+    }
+  }
+  .underline {
+    text-decoration: underline;
+  }
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.textareaPadding {
+  padding-left: 36px;
+  font-size: 14px;
+  @media (max-width: 600px) {
+    font-size: 12px;
+    padding-left: 0;
+  }
+}
+.textArea {
+  padding: 10px;
+  border-radius: 4px;
+  border: solid 1px #cddae0;
+  font-size: 14px;
+}
+.rejectButton {
+  min-height: 30px;
+  background-color: rgb(255, 240, 240);
+  color: rgb(226, 30, 30);
+  &:hover {
+    background-color: rgba(226, 30, 30, 0.2);
+    box-shadow: none;
+  }
+}
+.approveButton {
+  min-height: 30px;
+  background-color: rgb(234, 255, 249);
+  color: #01d195;
+  &:hover {
+    background-color: rgba(1, 209, 149, 0.2);
+    box-shadow: none;
+  }
+}
+.rejectionReasons {
+  @media (min-width: 600px) {
+    border-left: 2px solid #cddae0;
+  }
+  color: #354463;
+  opacity: 0.8;
+  .reasonsForRejectionArrow {
+    height: 16px;
+    width: 16px;
+    cursor: pointer;
+  }
+}
+.approvedText {
+  font-size: 12px;
+  font-weight: bold;
+  color: #01d195;
+}
+.rejectedText {
+  font-size: 12px;
+  font-weight: bold;
+  color: #e21e1e;
+}
+ul.ulClass {
+  list-style: none;
+  li {
+    display: flex;
+    .reasonsList {
+      background-color: #0369dd;
+      height: 7px;
+      width: 8px;
+      margin-top: 5px;
+      margin-right: 5px;
+      border-radius: 50%;
+      display: flex;
+    }
+  }
+}
+.rejectIcon {
+  height: 20px;
+  color: #e21e1e;
+}
+.itemStatus {
+  .pending {
+    width: 150px;
+    @media (max-width: 600px) {
+      width: 118px;
+    }
+    height: 30px;
+    border-radius: 4px;
+    background-color: rgb(255, 239, 219);
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(255, 108, 0);
+  }
+}

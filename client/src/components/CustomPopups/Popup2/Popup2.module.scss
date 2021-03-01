@@ -1,0 +1,25 @@
+.illustration {
+  width: 118px;
+}
+.cursorPointer {
+  cursor: pointer;
+}
+.illustration {
+  width: 120px;
+  @media only screen and (max-width: 576px) {
+    width: 100px;
+  }
+}
+.noOpacity {
+  opacity: 0;
+}
+.button {
+  // min-height: 40px;
+  width: 212px;
+  @media only screen and (max-width: 576px) {
+    width: 100%;
+  }
+}
+.popStyles {
+  color: #0257a3;
+}

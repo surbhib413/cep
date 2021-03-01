@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Air_Filling_for_Trucks" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-width:1.75px;stroke-linecap:round}
+        </style>
+    </defs>
+    <path id="Rectangle_21665" fill="none" d="M0 0H20V20H0z"/>
+    <g id="Group_30063" transform="translate(-5896.121 -2774.046)">
+        <path id="Path_25928" d="M5900.122 2775.046h8.446" class="cls-2"/>
+        <path id="Path_25929" fill="none" stroke="#6e7a93" stroke-width="1.75px" d="M5903.63 2775.046v5.352" transform="translate(.715)"/>
+        <path id="Rectangle_21651" fill="none" stroke="#6e7a93" stroke-linejoin="round" stroke-width="1.75px" d="M0 0H3.611V12.648H0z" transform="translate(5902.383 2780.398)"/>
+        <path id="Path_25930" d="M5900.705 2790h6.478" class="cls-2" transform="translate(.119 3.046)"/>
+        <path id="Path_25932" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75px" d="M5904.59 2789.555h2.3s2.177.168 2.159-3.129 0-6.7 0-6.7h2.446v2.1" transform="translate(1.378 .953)"/>
+    </g>
+</svg>

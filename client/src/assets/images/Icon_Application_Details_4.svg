@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_35_Application_Details" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_21626" d="M0 0H35V35H0z" class="cls-1"/>
+    <g id="Group_29957" transform="translate(-553 -3661)">
+        <path id="Rectangle_21629" d="M0 0H35V35H0z" class="cls-1" transform="translate(553 3661)"/>
+        <g id="Group_29952" transform="translate(219 3131)">
+            <circle id="Ellipse_2256" cx="17.5" cy="17.5" r="17.5" fill="#dfe5ed" transform="translate(334 530)"/>
+            <g id="Group_29915" transform="translate(3.999 3.826)">
+                <g id="W_icon_warning" transform="translate(339 534.174)">
+                    <g id="Group_23374">
+                        <path id="Path_23155" fill="none" stroke="#354463" stroke-width="1.75px" d="M17.626 27.738L11.267 16.05a2.637 2.637 0 0 0-4.535 0L.374 27.738a2.635 2.635 0 0 0 2.267 3.983h12.717a2.636 2.636 0 0 0 2.268-3.983z" transform="translate(0 -14.759)"/>
+                    </g>
+                </g>
+                <path id="Path_25893" fill="none" stroke="#354463" stroke-linecap="round" stroke-width="1.75px" d="M-5673.723 15037.3v-4.457" transform="translate(6022.018 -14493.325)"/>
+                <g id="Ellipse_2252" fill="#0369dd" stroke="#354463" stroke-width="1.75px" transform="translate(347.31 545.769)">
+                    <circle cx=".984" cy=".984" r=".984" stroke="none"/>
+                    <circle cx=".984" cy=".984" r=".109" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,250 @@
+// START | COMMON CSS
+.mainGridContainer {
+  background-color: #fff;
+  min-height: 100vh;
+  padding: 30px 40px;
+}
+
+.textBlackish {
+  color: #354463;
+}
+// END | COMMON CSS
+
+.headingContainer {
+  margin-bottom: 40px;
+  .heading {
+    font-size: 1.8rem;
+    font-family: Raleway;
+  }
+}
+
+.kycInfoContainer {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 4px;
+  background-color: #fff0f0;
+  padding: 20px;
+  margin-bottom: 30px;
+
+  .kycDetails {
+    display: flex;
+    align-items: flex-start;
+  }
+  .kycDetails img {
+    margin-right: 20px;
+  }
+  .kycDetails p {
+    margin-top: 1px;
+    font-size: 0.8rem;
+  }
+  .kycLink {
+    color: #0369dd;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+    min-width: 150px;
+    text-align: right;
+  }
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  padding: 20px 20px;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+
+  .iconContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px; 
+  }
+}
+
+.firstCard {
+  margin-right: 15px;
+}
+.middleCard {
+  margin: 0 15px;
+}
+.lastCard {
+  margin-left: 15px;
+}
+
+.pmCount {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #354463;
+}
+
+.expiryContainer {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  p {
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    // color: #354463;
+  }
+}
+
+.warningIcon { height: 20px; }
+.redemptionLink {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.titleRow {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+.sectionTitle {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.hrLine {
+  height: 2px;
+  background-color: #cddae0;
+  flex: 1;
+  margin: 0 30px;
+  border-radius: 10px;
+}
+
+.redeemAsCard {
+  display: block;
+}
+.conversionRow {
+  display: flex;
+}
+
+.rewardBlock {
+  display: flex;
+  align-items: center;
+}
+.arrowImg {
+  margin: 0 30px;
+}
+
+.minPetromilesError {
+  margin-top: 20px;
+  display: flex;
+  .warningIcon {
+    margin-right: 8px;
+  }
+  p {
+    font-size: 0.8rem;
+  }
+}
+
+.bannerContainer img {
+  width: 100%;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+  cursor: pointer;
+}
+
+.faqContainer {
+  margin-top: 40px;
+}
+.que {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.faqAns {
+  font-size: 0.875rem;
+}
+
+.innerLink {
+  color: #0369dd;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.allFaqsBtn {
+  margin-top: 40px;
+  margin-bottom: 90px;
+}
+
+@media (max-width: 600px) {
+  .root {
+    padding: 0;
+  }
+  .mainGridContainer {
+    padding: 10px 15px;
+  }
+  .headingContainer {
+    margin-bottom: 20px;
+    .heading {
+      font-size: 1.2rem;
+    }
+  }
+
+  .kycInfoContainer {
+    padding: 15px;
+    display: block;
+    .kycDetails img {
+      margin-right: 15px;
+    }
+    .kycDetails p {
+      margin-bottom: 15px;
+      margin-right: 50px;
+    }
+  }
+
+  .card {
+    margin: 0;
+    padding: 12px;
+    margin-bottom: 12px;
+  }
+  .pmCount {
+    font-size: 1.2rem;
+  }
+  .expiryContainer {
+    margin-top: 10px;
+    display: block;
+  }
+  .redemptionLink {
+    margin: 22px;
+    display: flex;
+    justify-content: center;
+  }
+  .titleRow {
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }
+  .sectionTitle {
+    font-size: 0.9rem;
+  }
+  .redeemAsCard {
+    display: block;
+    margin-bottom: 22px;
+  }
+  .conversionRow {
+    display: block;
+  }
+  .arrowImg {
+    margin: 12px 20px;
+  }
+  .redeemAsRewardBtn {
+    width: 100%;
+  }
+  .bannerContainer {
+    margin-bottom: 22px;
+  }
+  .faqContainer {
+    margin-top: 30px;
+    margin-right: 20px;
+  }
+  .que {
+    font-size: 0.85rem;
+  }
+  .faqAns {
+    font-size: 0.85rem;
+  }
+}

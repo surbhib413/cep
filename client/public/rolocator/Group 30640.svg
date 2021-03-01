@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_30640" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <path id="Rectangle_21724" d="M0 0H20V20H0z" class="cls-1"/>
+    <g id="Group_30321" transform="translate(2 2)">
+        <g id="W_Icons_Help">
+            <path id="Rectangle_21079" d="M0 0H16V16H0z" class="cls-1"/>
+            <g id="help-circle" transform="translate(1 1)">
+                <circle id="Ellipse_1768" cx="7" cy="7" r="7" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75px"/>
+            </g>
+        </g>
+        <path id="Path_25994" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5px" d="M11973.048 7729.871h-4.639v-5.738" transform="translate(-11960.909 -7720.633)"/>
+    </g>
+</svg>

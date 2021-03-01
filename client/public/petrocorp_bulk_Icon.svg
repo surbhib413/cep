@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="WM_Illus-B2B_bulk-upload" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <style>
+            .cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="W_Illustrations_Payment_Successful">
+        <g id="Group_23458">
+            <g id="Group_23453">
+                <circle id="Ellipse_2217" cx="47" cy="47" r="47" fill="#daf5fd"/>
+            </g>
+        </g>
+    </g>
+    <g id="W_Icons_Excel" transform="translate(24.001 25)">
+        <path id="Rectangle_21129" fill="none" d="M0 0H21V21H0z"/>
+        <g id="Group_23388" transform="translate(2.813 1.514)">
+            <g id="Group_23388-2">
+                <path id="Path_23117" fill="#005cad" d="M38.96 12.987H25.973V0H2.16A2.169 2.169 0 0 0 0 2.147v38.994a2.149 2.149 0 0 0 2.149 2.147H36.81a2.164 2.164 0 0 0 2.149-2.18zm0-2.164L28.138.006v10.816z"/>
+            </g>
+            <g id="insert" transform="translate(8.003 20.606)">
+                <path id="Path_23130" d="M127.468 13.264h-18.69a2.112 2.112 0 0 1-2.11-2.11V2.11a2.112 2.112 0 0 1 2.11-2.11h18.69a2.112 2.112 0 0 1 2.11 2.11v9.044a2.112 2.112 0 0 1-2.11 2.11zm-18.69-11.455a.3.3 0 0 0-.3.3v9.044a.3.3 0 0 0 .3.3h18.69a.3.3 0 0 0 .3-.3V2.11a.3.3 0 0 0-.3-.3zm0 0" class="cls-4" transform="translate(-106.668)"/>
+                <path id="Path_23132" d="M294.236 13.264a.9.9 0 0 1-.9-.9V.9a.9.9 0 1 1 1.809 0v11.46a.9.9 0 0 1-.909.904zm0 0" class="cls-4" transform="translate(-282.781)"/>
+                <path id="Path_23133" d="M128.674 103.141h-21.1a.9.9 0 0 1 0-1.809h21.1a.9.9 0 0 1 0 1.809zm0 0" class="cls-4" transform="translate(-106.668 -95.604)"/>
+            </g>
+        </g>
+    </g>
+</svg>

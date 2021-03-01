@@ -1,0 +1,30 @@
+.SelectedBG {
+    //width: 536px;
+    //height: 50px;
+    //margin: 74px 8px 12px 0;
+    //padding: 13px 409.4px 13px 8px;
+    border-radius: 3px;
+    //border: solid 1px #cddae0;
+    border-bottom: solid 10px #ffffff;
+    background-color: #f1f6fd;
+  }
+  .UnselectedBG {
+    //width: 536px;
+    //height: 50px;
+    //margin: 12px 8px 12px 0;
+    //padding: 13px 416.4px 13px 8px;
+    border-bottom: solid 10px #ffffff;
+    border-radius: 3px;
+    box-shadow: 0.5px 3px 10px 0 rgba(119, 119, 119, 0.1);
+    background-color: #ffffff;
+  }
+  .title {
+    //text-align: left;
+    font-size: 1.3rem !important;
+    font-weight: 600 !important;
+    color: #0369dd;
+    //margin-left: 180px;
+  }
+  .closeIcon {
+    cursor: pointer;
+  }

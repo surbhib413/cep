@@ -1,0 +1,25 @@
+.headerPaper {
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .content {
+    border: 2px solid #cddae0;
+    border-radius: 4px;
+    .contentHeader {
+      background-color: #e6f1fe;
+    }
+    .radioLabel {
+      display: inline;
+    }
+  }
+  .inputBoxSizing {
+    width: 276px;
+    @media only screen and (max-width: 1024px) {
+      width: auto;
+    }
+    @media only screen and (max-width: 600px) {
+      width: 100%;
+    }
+  }
+}

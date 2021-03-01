@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.75" height="17.75" viewBox="0 0 17.75 17.75">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#99a0b0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <g id="search" transform="translate(.875 .875)">
+        <circle id="Ellipse_8" cx="8" cy="8" r="8" class="cls-1"/>
+        <path id="Line_10" d="M9 9L0 0" class="cls-1" transform="translate(3.5 3.5)"/>
+    </g>
+</svg>

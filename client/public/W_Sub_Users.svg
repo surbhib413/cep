@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Profile_Nav-tile_Sub-Users" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#0369dd;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <rect id="Rectangle_21762" width="36" height="36" fill="rgba(3,105,221,0.1)" rx="4"/>
+    <g id="users" transform="translate(7 7)">
+        <path id="Path_26273" d="M15.545 20.455v-1.819A3.636 3.636 0 0 0 11.909 15H4.636A3.636 3.636 0 0 0 1 18.636v1.818" class="cls-2" transform="translate(0 -1.091)"/>
+        <circle id="Ellipse_2574" cx="3.636" cy="3.636" r="3.636" class="cls-2" transform="translate(4.636 3)"/>
+        <path id="Path_26274" d="M22.727 20.466v-1.818A3.636 3.636 0 0 0 20 15.13" class="cls-2" transform="translate(-1.727 -1.103)"/>
+        <path id="Path_26275" d="M16 3.13a3.636 3.636 0 0 1 0 7.045" class="cls-2" transform="translate(-1.364 -.012)"/>
+    </g>
+</svg>

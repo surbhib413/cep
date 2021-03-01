@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.121" height="20.206" viewBox="0 0 20.121 20.206">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-3{stroke-linecap:round;stroke:#6e7a93;stroke-width:1.75px}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="Cooking" transform="translate(.061 .206)">
+        <path id="Rectangle_21658" d="M0 0H20V20H0z" class="cls-1"/>
+        <g id="Group_31001" transform="translate(-575 -597.512)">
+            <g id="Path_26075" fill="none" stroke-linecap="round">
+                <path d="M.048-.591h12.975v5.4a3.6 3.6 0 0 1-3.6 3.6H3.6A3.6 3.6 0 0 1 0 4.806z" class="cls-4" transform="translate(578.442 608.039)"/>
+                <path fill="#6e7a93" d="M1.782 1.16L1.75 4.811c.003 1.017.832 1.844 1.85 1.844h5.823c1.02 0 1.85-.83 1.85-1.85V1.159h-9.49M.047-.59h12.975v5.397c0 1.988-1.612 3.6-3.6 3.6H3.6c-1.988 0-3.6-1.612-3.6-3.6L.048-.591z" transform="translate(578.442 608.039)"/>
+            </g>
+            <g id="Rectangle_21773" class="cls-3" transform="translate(576.977 604.964)">
+                <rect width="15.953" height="4.079" class="cls-4" rx="2.039"/>
+                <rect width="14.203" height="2.329" x=".875" y=".875" class="cls-1" rx="1.164"/>
+            </g>
+            <path id="Path_26070" d="M4237 8683.156l2.536-.632" class="cls-3" transform="translate(-3645.536 -8071.855)"/>
+            <path id="Path_26071" d="M4239.536 8683.156l-2.536-.632" class="cls-3" transform="translate(-3661 -8071.855)"/>
+            <path id="Path_26072" d="M4214.741 8599.337a2.361 2.361 0 0 0 .245 2.513 2.126 2.126 0 0 1 0 2.529" class="cls-3" transform="translate(-3626.693 -8000.825)"/>
+            <path id="Path_26073" d="M4214.741 8599.337a2.361 2.361 0 0 0 .245 2.513 2.126 2.126 0 0 1 0 2.529" class="cls-3" transform="translate(-3630.112 -8000.825)"/>
+            <path id="Path_26074" d="M4214.741 8599.337a2.361 2.361 0 0 0 .245 2.513 2.126 2.126 0 0 1 0 2.529" class="cls-3" transform="translate(-3633.693 -8000.825)"/>
+        </g>
+    </g>
+</svg>

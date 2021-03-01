@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="100" viewBox="0 0 150 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2e3187;
+      }
+
+      .cls-3 {
+        fill: #278043;
+      }
+
+      .cls-4 {
+        fill: #f06019;
+      }
+
+      .cls-5 {
+        fill: #100f0d;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_21138);
+      }
+
+      .cls-7 {
+        filter: url(#Rectangle_21137);
+      }
+    </style>
+    <filter id="Rectangle_21137" x="6" y="6" width="144" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#eff3fa"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21138" x="0" y="0" width="144" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dx="-3" dy="-3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-color="#eff3fa"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_23478" data-name="Group 23478" transform="translate(-435 -998)">
+    <g id="W_Card_Bg_with_shadow" data-name="W/Card Bg with shadow" transform="translate(450 1013)">
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, -15, -15)">
+        <rect id="Rectangle_21137-2" data-name="Rectangle 21137" class="cls-1" width="120" height="70" rx="6" transform="translate(15 15)"/>
+      </g>
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, -15, -15)">
+        <rect id="Rectangle_21138-2" data-name="Rectangle 21138" class="cls-1" width="120" height="70" rx="6" transform="translate(15 15)"/>
+      </g>
+    </g>
+    <g id="g10" transform="translate(464 1208.983)">
+      <g id="g12" transform="translate(0 -172.984)">
+        <path id="path14" class="cls-2" d="M231.665-153.566a2.477,2.477,0,0,1-2.568,1.683h-2.573l1.016-3.78s1.628.008,2.7.008A1.443,1.443,0,0,1,231.665-153.566Zm5.4-1.766c.418-3.308-2.1-4.689-5.251-4.689h-8.27l-4.882,17.792h5.255l1.478-5.485,4.187.026s6.484.274,7.483-7.643" transform="translate(-187.064 161.894)"/>
+        <path id="path16" class="cls-2" d="M123.068-126.355h4.793l-1.974,7.595s-.492,1.694,1.092,1.824c1.251.1,2.183-1.39,2.488-2.4.4-1.328,1.959-7.017,1.959-7.017h4.938l-3.758,12.927h-4.312l.53-1.847a6.844,6.844,0,0,1-5.468,2.361c-2.9-.285-3.155-2.393-2.652-5.021.247-1.291,2.363-8.419,2.363-8.419" transform="translate(-103.083 133.094)"/>
+        <path id="path18" class="cls-2" d="M333.539-119.864c-.821.208-1.817.321-2.014-.425-.542-2.044,4.244-2.643,4.244-2.643A3.309,3.309,0,0,1,333.539-119.864Zm7.24-3.742c.632-2.15,1.43-4.186.787-5.315-.984-1.727-2.762-1.879-5.364-1.879-2.874,0-6.423.546-7.579,4.368h4.785a2.1,2.1,0,0,1,2.232-1.349c1.59.08,1.5,1.174.917,1.779-1.027,1.06-3.865.472-7.008,1.563-2.746.952-3.707,4.563-3.11,6,.578,1.4,1.655,1.575,3.107,1.718a6.547,6.547,0,0,0,4.954-1.835c0,.848.022,1.321.022,1.321h5.035l-.012-.474s-.449-.119-.4-.749c.036-.462.906-2.682,1.632-5.152" transform="translate(-279.117 136.897)"/>
+        <path id="path20" class="cls-2" d="M13.217-153.606c-.68,1.574-2.786,1.4-2.786,1.4l-2.453-.011.9-3.333s2.195.008,3.27.008C13.3-155.548,13.656-154.623,13.217-153.606Zm5.575-2.272c.418-3.308-2.493-4.143-5.64-4.143H4.882L0-142.229H5.255L6.9-148.27l2.948.024s1.216-.071,1.24,1.072c.026,1.219-.9,3.456-.843,4.945h5.4l-.012-.474s-.449-.119-.4-.749a18.749,18.749,0,0,1,.689-2.211,6.822,6.822,0,0,0,.541-2.617c-.04-1.19-.786-1.742-1.863-2.129,3.356-.787,4.2-5.469,4.2-5.469" transform="translate(0 161.894)"/>
+        <path id="path22" class="cls-2" d="M421.793-126.355h4.882v7.756l4.223-7.756h4.48l-9.033,15.68a7.941,7.941,0,0,1-1.879,2.011,4.284,4.284,0,0,1-2.226.569c-1.784-.015-3.936-.02-3.936-.02l1.038-3.738,1.68,0a1.845,1.845,0,0,0,1.066-.458,1.87,1.87,0,0,0,.427-1.253c0-.794-.723-12.79-.723-12.79" transform="translate(-357.85 133.094)"/>
+        <path id="path24" class="cls-3" d="M546.414-147.021l-5.636,19.607,10.55-9.8Z" transform="translate(-462.623 150.773)"/>
+        <path id="path26" class="cls-4" d="M521.414-147.021l-5.636,19.607,10.55-9.8Z" transform="translate(-441.236 150.773)"/>
+        <path id="path28" class="cls-5" d="M614.746-172.791a1.945,1.945,0,0,0-1.943,1.943,1.945,1.945,0,0,0,1.943,1.943,1.945,1.945,0,0,0,1.943-1.943A1.945,1.945,0,0,0,614.746-172.791Zm0,4.079a2.138,2.138,0,0,1-2.136-2.136,2.138,2.138,0,0,1,2.136-2.136,2.138,2.138,0,0,1,2.136,2.136,2.138,2.138,0,0,1-2.136,2.136" transform="translate(-524.075 172.984)"/>
+        <path id="path30" class="cls-5" d="M617.266-161.653v-1.336h-.5v-.179h1.2v.179h-.5v1.336h-.2" transform="translate(-527.631 164.586)"/>
+        <path id="path32" class="cls-5" d="M627.181-161.653v-1.515h.3l.358,1.072c.033.1.057.175.073.224q.025-.083.081-.243l.362-1.054h.269v1.515h-.193v-1.268l-.44,1.268h-.181l-.438-1.29v1.29h-.193" transform="translate(-536.539 164.586)"/>
+      </g>
+    </g>
+  </g>
+</svg>

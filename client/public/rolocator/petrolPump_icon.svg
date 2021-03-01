@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="CNG" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-1{stroke:#6e7a93;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Group_26340">
+        <g id="Group_26339" transform="translate(2.001 2)">
+            <g id="Rectangle_21434" class="cls-1">
+                <path d="M2 0h5.911a2 2 0 0 1 2 2v14H0V2a2 2 0 0 1 2-2z" transform="translate(.47)"/>
+                <path d="M2 .75h5.911A1.25 1.25 0 0 1 9.161 2v12.5a.75.75 0 0 1-.75.75H1.5a.75.75 0 0 1-.75-.75V2A1.25 1.25 0 0 1 2 .75z" class="cls-2" transform="translate(.47)"/>
+            </g>
+            <path id="Path_25456" d="M-1854 7320.619h.621s1.424-.151 1.428 1.181 0 4.9 0 4.9a1.254 1.254 0 0 0 1.326.975 1.538 1.538 0 0 0 1.465-.975v-7.178l-1.465-2.811h-1.326" class="cls-1" transform="translate(1864.582 -7311.911)"/>
+            <path id="Path_25458" d="M-1928.667 7270.541h5.343" class="cls-1" transform="translate(1931.241 -7266.374)"/>
+            <path id="Path_25459" d="M-1928.667 7270.541h5.343" class="cls-1" transform="translate(1931.241 -7263.621)"/>
+        </g>
+        <path id="Rectangle_21433" d="M0 0H20V20H0z" class="cls-2"/>
+    </g>
+</svg>

@@ -1,0 +1,124 @@
+.headerPaper {
+  .title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .content {
+    // border: 2px solid #cddae0;
+    border-radius: 4px;
+    .contentHeader {
+      background-color: #ffffff !important;
+    }
+    .radioLabel {
+      display: inline;
+    }
+  }
+  .inputBoxSizing {
+    width: 276px;
+    @media only screen and (max-width: 1024px) {
+      width: auto;
+    }
+    @media only screen and (max-width: 600px) {
+      width: 100%;
+    }
+  }
+}
+
+.submitBox {
+  border-radius: 4px;
+  border: solid 1.5px #cddae0;
+}
+
+.addLinkDiv {
+  @media (max-width: 600px) {
+    justify-content: center;
+  }
+}
+.addLinkStyle {
+  color: #0369dd;
+  text-decoration: underline;
+  font-weight: 600;
+  cursor: pointer;
+  width: 80px;
+}
+
+.cardDetailsNavCards {
+  height: 64px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+}
+.cardDetailsNavCardsActive {
+  height: 64px;
+  border-radius: 4px;
+  background-color: #e5f0fc;
+  box-shadow: 0 2px 20px 0 #eff1f6;
+}
+
+.btnStyle {
+  width: 300px;
+  height: 50px;
+}
+
+.noRecordLabel {
+  font-size: 24px;
+  color: #354463;
+  @media (max-width: 600px) {
+    font-size: 14px;
+  }
+}
+
+.linkStyle {
+  font-size: 14px;
+  font-weight: 600;
+  color: #0369dd;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.label {
+  border-left: solid 1px #6e7a93;
+  font-size: 14px;
+  color: #354463;
+  font-weight: 600;
+}
+
+.redText {
+  color: red !important;
+  font-size: 18px;
+  font-weight: bold;
+  @media (max-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+.normalText {
+  font-size: 18px;
+  font-weight: bold;
+  @media (max-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+.positionText {
+  justify-content: flex-end;
+  @media (max-width: 600px) {
+    justify-content: flex-start;
+  }
+}
+
+.errorAlertStyle {
+  background-color: #ffd1d1;
+  border-radius: 4px;
+  text-align: start;
+  color: #e21e1e;
+}
+
+.borderButton:focus {
+  outline: none;
+}
+
+.errorAlertAlign {
+  //margin-left: -13px;
+  font-size: 14px;
+}

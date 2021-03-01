@@ -1,0 +1,214 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif; */
+  font-family: "Open Sans", Raleway;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eff1f6;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.rdrDefinedRangesWrapper .rdrStaticRanges {
+  border-top: 1px #cddae0 solid;
+}
+@media (max-width: 576px) {
+  .rdrDefinedRangesWrapper .rdrStaticRanges {
+    border-top: none;
+    justify-content: center;
+    flex-direction: row;
+  }
+}
+
+.rdrStaticRanges .rdrStaticRange {
+  border-bottom: 1px #cddae0 solid;
+}
+@media (max-width: 576px) {
+  .rdrStaticRanges .rdrStaticRange {
+    border-bottom: none;
+  }
+}
+
+@media (max-width: 576px) {
+  .rdrStaticRanges {
+    flex-direction: row;
+  }
+}
+.rdrStaticRanges .rdrStaticRange .rdrStaticRangeLabel {
+  text-align: center;
+}
+.rdrMonthAndYearWrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.rdrMonthAndYearWrapper .rdrMonthAndYearPickers select {
+  font-size: 14px;
+  font-weight: bold;
+}
+.rdrMonthAndYearPickers select * {
+  color: #354463;
+  padding: 12px 20px;
+  background-color: white;
+  font-size: 14px;
+}
+
+.rdrMonths {
+  padding: 20px 0px;
+}
+.rdrMonths .rdrMonth {
+  padding: 0px 20px;
+}
+.rdrMonth:first-child {
+  border-right: 1px solid #cddae0;
+}
+@media (max-width: 576px) {
+  .rdrMonth:first-child {
+    border-bottom: 1px solid #cddae0;
+    border-right: none;
+    width: 100%;
+  }
+}
+
+.rdrMonthAndYearWrapper .rdrNextPrevButton {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+.rdrMonthAndYearWrapper .rdrNextPrevButton i {
+  margin: auto;
+}
+.rdrMonthAndYearWrapper .rdrNextPrevButton:focus {
+  outline: none;
+}
+
+.rdrMonths .rdrMonth .rdrMonthName {
+  color: #117af5;
+  z-index: 1;
+}
+.rdrMonths .rdrMonth .rdrDays .rdrDayNumber {
+  font-size: 11px;
+  font-weight: 600;
+  z-index: 1;
+}
+
+.rdrDay .rdrDayStartPreview {
+  border-color: white !important;
+  background-color: rgba(233, 241, 255, 0.5) !important;
+  left: 7px;
+}
+/* .rdrDay .rdrDayEndPreview {
+  border-color: white !important;
+  background-color: rgba(233, 241, 255, 0.5) !important;
+  right: 7px;
+} */
+
+.rdrDayHovered .rdrDayStartPreview,
+.rdrDayInPreview,
+.rdrDayEndPreview {
+  border-color: white !important;
+  color: #354463 !important;
+  /* opacity: 0.7; */
+  background-color: rgba(233, 241, 255, 0.5) !important;
+  right: 7px;
+  left: 7px;
+}
+
+.rdrDayHovered .rdrDayStartPreview,
+.rdrDayEndPreview {
+  border-color: white !important;
+  color: #354463 !important;
+  /* opacity: 0.7; */
+  background-color: rgba(233, 241, 255, 0.5) !important;
+  /* right: 7px;
+  left: 7px; */
+}
+
+.rdrSelected,
+.rdrInRange {
+  /* opacity: 0.6; */
+  color: rgb(233, 241, 255) !important;
+}
+.rdrStartEdge,
+.rdrEndEdge {
+  border-top-left-radius: 1.042em;
+  border-bottom-left-radius: 1.042em;
+  border-top-right-radius: 1.042em;
+  border-bottom-right-radius: 1.042em;
+  right: 7px;
+  left: 7px;
+}
+
+.rdrDay .rdrInRange {
+  left: -14px;
+  right: -14px;
+}
+.rdrDay .rdrStartEdge {
+  left: 7px;
+  right: 7px;
+  z-index: 1;
+}
+
+.rdrDay .rdrEndEdge {
+  left: 7px;
+  right: 7px;
+  z-index: 1;
+}
+
+.rdrDay:not(.rdrDayPassive) .rdrInRange ~ .rdrDayNumber span,
+.rdrDay:not(.rdrDayPassive) .rdrSelected ~ .rdrDayNumber span {
+  color: #354463 !important;
+}
+.rdrDay:not(.rdrDayPassive) .rdrStartEdge ~ .rdrDayNumber span,
+.rdrDay:not(.rdrDayPassive) .rdrEndEdge ~ .rdrDayNumber span {
+  color: white;
+}
+
+.rdrDayStartOfMonth .rdrInRange,
+.rdrDayStartOfMonth .rdrEndEdge,
+.rdrDayStartOfWeek .rdrInRange,
+.rdrDayStartOfWeek .rdrEndEdge {
+  left: 7px;
+}
+
+button:focus{
+  outline: none;
+}
+
+/** These are inbuild Google Maps InfoWindow classes which needs to be overridden for ROLocator Map Market OnHover*/
+/* Start */
+.gm-style .gm-style-iw-c {
+  margin: 0px !important;
+  padding: 0px !important;
+  max-width: 500px !important;
+  max-height: 326px !important;
+  min-width: 0px !important;
+  position: absolute;
+  box-sizing: border-box;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  transform: translate(-50%,-100%);
+  background-color: #0369dd !important;
+  border-radius: 4px;
+  box-shadow: 0 2px 7px 1px rgba(0,0,0,0.3);
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.gm-style-iw + div {display: none;}
+
+.gm-style .gm-style-iw-c button{
+ display: none !important;
+}
+.gm-style .gm-style-iw-t::after{
+ display: none !important;
+}
+.gm-style .gm-style-iw-d{
+ overflow: hidden !important;
+}
+/* End */

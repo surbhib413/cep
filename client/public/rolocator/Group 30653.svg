@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.95" height="22.95" viewBox="0 0 22.95 22.95">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_30653" transform="translate(1.475 1.475)">
+        <path id="Rectangle_21726" d="M0 0H20V20H0z" class="cls-1"/>
+        <g id="Group_30653-2" transform="translate(1 1)">
+            <g id="Group_29966" fill="none" stroke-width="1.75px">
+                <g id="Rectangle_21641" stroke="#0369dd" transform="rotate(-45 10.864 4.5)">
+                    <rect width="12.728" height="12.728" stroke="none" rx="2"/>
+                    <rect width="14.478" height="14.478" x="-.875" y="-.875" class="cls-1" rx="2.875"/>
+                </g>
+                <g id="Group_29966-2" stroke-linecap="round" transform="translate(5.827 6.176)">
+                    <path id="Path_25909" stroke="#0369dd" stroke-linejoin="round" d="M1415.351 456.4v-3h6.331" transform="translate(-1415.351 -451.026)"/>
+                    <path id="Path_25910" stroke="#096ee0" d="M1427.058 451.508l2.482-2.481-2.482-2.481" transform="translate(-1423.006 -446.546)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

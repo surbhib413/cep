@@ -1,0 +1,64 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: alp-app
+spec:
+  selector:
+    matchLabels:
+      app: alp-app
+  template:
+    metadata:
+      labels:
+        app: alp-app # the label for the pods and the deployments
+    spec:
+      containers:
+      - name: alp-app
+        image: sharedregistry1.azurecr.io/alpdeva:latest # IMPORTANT: update with your own repository
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 3000 # the application listens to this port
+        
+        # resources:
+        #   requests: # minimum resources required
+        #     cpu: 250m
+        #     memory: 64Mi
+        #   limits: # maximum resources allocated
+        #     cpu: 500m
+        #     memory: 512Mi
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: alp-app
+spec:
+  selector:
+    app: alp-app
+  ports:
+  - protocol: TCP
+    port: 3000
+    targetPort: 3000
+  type: ClusterIP
+# ---
+# apiVersion: extensions/v1beta1
+# kind: Ingress
+# metadata:
+#   name: alp-ingress
+#   annotations:
+#     kubernetes.io/ingress.class: azure/application-gateway
+#     appgw.ingress.kubernetes.io/backend-path-prefix: "/"
+#     appgw.ingress.kubernetes.io/appgw-ssl-certificate: cdcdevsslcert
+#     appgw.ingress.kubernetes.io/ssl-redirect: "true"
+   
+# spec:
+#   tls:
+#     - hosts:
+#       - dev.alp.bpcl.in  
+      
+#   rules:
+#   - host: dev.alp.bpcl.in
+#     http:
+#       paths:
+#       - backend:
+#           serviceName: alp-app
+#           servicePort: 3000
+#         path: /

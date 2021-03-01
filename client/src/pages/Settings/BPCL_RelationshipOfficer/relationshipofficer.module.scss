@@ -1,0 +1,110 @@
+.mainGridContainer {
+  background-color: #fff;
+  display: flex;
+  min-height: 100vh;
+  
+}
+ 
+@media screen and (min-width: 768px) {
+  .mainGridContainer {
+    display: flex;
+    // height: 100vh;
+  }
+  .contentContainer {
+    padding-left: 40px;
+  }
+}
+.padTop{
+  padding-top: 25px;
+  // padding-left: 10px;
+  // padding-right: 10px;
+}
+
+.mobileSideBar{
+  display:block;
+  @media (max-width: 600px) {
+    display:none;
+  }
+}
+
+.contentContainer{
+  padding-left: 40px;
+}
+
+.mainCard {
+  position: relative;
+  // padding: 13px;
+  // height: 170px;
+  border-radius: 12px;
+  background-color: #3bb7cd;
+ 
+  
+}
+
+// // START
+.backToMyProfile {
+  cursor: pointer;
+  // min-width: 50px;
+}
+.relationshipoff {
+
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: bold;
+  // margin: 0 70px 8px 32px;
+  color: #354463;
+  width: 254px;
+  height: 27px;
+    @media (max-width: 600px) {
+      font-size: 17px;
+      // height: 42px;
+  }
+}
+.secDivider {
+  height: 2px;
+  // background-color: #cddae0;
+//   width: 320px;
+// height: 0;
+margin: 16px 10px 0;
+// border: solid 1.5px #cddae0;
+}
+// .relationcont{
+ 
+//   font-family: OpenSans;
+//   font-size: 14px;
+//   font-weight: bold;
+//   margin-top: 24px;
+//   color: #354463;
+// }
+// .textField{
+  
+//   background-color: var(--pale-grey);
+// }
+.makeStyles-root-6 .MuiInputBase-root.Mui-disabled {
+  // color: rgba(0, 0, 0, 0.6);
+  background-color: grey;
+}
+
+  // @media screen and (max-width:768px){
+  //   .relationshipofcbtn{
+  //     float: none;
+  //     margin-top: 5px;
+  //     display:flex;
+  //     margin-top: 10px;
+  //   }
+  
+  //   .relationshipofcbtn span{
+  //     display: flex;
+  //     width: 100%;
+  //   }
+  // }
+  
+  // BPCL Relationship Officer
+  // END
+
+  .textField{
+    background-color: #eff1f6;
+    fieldset {
+      border: transparent;
+    }
+  }

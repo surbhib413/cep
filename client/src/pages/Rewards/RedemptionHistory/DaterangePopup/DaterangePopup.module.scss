@@ -1,0 +1,76 @@
+.inputBackground {
+    background-color: #eff7ff;
+    
+  }
+
+  .customDialogBox{
+    padding-bottom: 10%;
+    @media only screen and (max-width: 576px) {
+    height: auto;  
+    padding: 20% 2% 65% 2%;
+      
+    }
+  }
+
+  .calanderContainer {
+    position: fixed;
+    z-index: 20;
+    box-shadow: 0 7px 25px 0 rgba(144, 144, 144, 0.23);
+    
+    @media only screen and (max-width: 576px) {
+      flex-direction: column-reverse;
+      width: 100%;
+      left: 0px;
+      top:41%;
+      padding-bottom: 10px;
+    }
+ 
+ 
+  .rdrDateRangePickerWrapper {
+    width: 80%;
+    height: auto;
+    @media only screen and (max-width: 576px) {
+      padding: 0;
+      width: auto;
+      height: auto;
+    
+    }
+  }
+}
+  .calendarIcon {
+    width: 28px;
+  }
+  
+  .dialogContent {
+    height: auto;
+  }
+  
+  .gridHeight {
+    height: 35px;
+  }
+ 
+
+    .dialogActions2{
+     
+      @media only screen and (max-width: 576px) {
+        margin-bottom: 16px;
+        
+      }
+    }
+    .dialogActions2 span{
+      margin-left: 20px;
+      @media only screen and (max-width: 576px) {
+        // padding: 2px;
+        width: 100%;
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+    }
+
+    .dateFieldsto{
+      @media only screen and (max-width: 576px) {
+        
+        margin-top: -43px;
+      }
+    }
+  

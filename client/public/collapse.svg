@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_Collapse_minus" width="20" height="20" data-name="W/Icons/Collapse minus" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:#6e7a93}
+        </style>
+    </defs>
+    <path id="Rectangle_21087" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 21087"/>
+    <g id="Group_23296" data-name="Group 23296" transform="translate(-493.125 -1799.125)">
+        <g id="Path_23034" data-name="Path 23034" transform="translate(494.125 1800.125)">
+            <path id="Path_23035" d="M293.513 411.7a9 9 0 1 1 9-9 9.01 9.01 0 0 1-9 9zm0-16.4a7.4 7.4 0 1 0 7.406 7.4 7.413 7.413 0 0 0-7.406-7.4z" class="cls-2" data-name="Path 23035" transform="translate(-284.513 -393.704)"/>
+        </g>
+        <g id="Line_1670" data-name="Line 1670" transform="translate(498.249 1808.25)">
+            <path id="Path_23036" d="M298.388 404.454h-8a.875.875 0 0 1 0-1.75h8a.875.875 0 1 1 0 1.75z" class="cls-2" data-name="Path 23036" transform="translate(-289.513 -402.704)"/>
+        </g>
+        <g id="Line_1670-2" data-name="Line 1670" transform="rotate(-90 1158.125 655.875)">
+            <path id="Path_23036-2" d="M298.388 404.454h-8a.875.875 0 0 1 0-1.75h8a.875.875 0 1 1 0 1.75z" class="cls-2" data-name="Path 23036" transform="translate(-289.513 -402.704)"/>
+        </g>
+    </g>
+</svg>

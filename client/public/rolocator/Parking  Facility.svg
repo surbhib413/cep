@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Parking_Facility" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#6e7a93;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21656" d="M0 0H20V20H0z" class="cls-1"/>
+    <g id="Group_30049" transform="translate(1899 -7322)">
+        <g id="Ellipse_268" class="cls-2" transform="translate(-1898 7323)">
+            <circle cx="9" cy="9" r="9"/>
+            <circle cx="9" cy="9" r="8.125" class="cls-1"/>
+        </g>
+        <g id="Group_26344" transform="translate(-1891.052 7328.369)">
+            <path id="Path_25472" d="M-1891.7 7327.772v8.046" class="cls-2" transform="translate(1891.839 -7327.772)"/>
+            <path id="Path_25473" d="M-1891.824 7328.272h3.556a2.055 2.055 0 0 1 1.562 2.015 1.841 1.841 0 0 1-1.562 1.82h-3.556" class="cls-2" transform="translate(1891.824 -7327.71)"/>
+        </g>
+    </g>
+</svg>

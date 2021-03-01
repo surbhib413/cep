@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_PDF" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <style>
+            .cls-3{fill:#fff}
+        </style>
+    </defs>
+    <path id="Rectangle_21129" fill="none" d="M0 0H28V28H0z"/>
+    <g id="Group_23388" transform="translate(-11043.875 -926.313)">
+        <g id="Group_23388-2" transform="translate(11046.875 928.063)">
+            <path id="Path_23117" fill="#eb4551" d="M22 7.333h-7.333V0H1.22A1.225 1.225 0 0 0 0 1.212v22.02a1.213 1.213 0 0 0 1.214 1.212h19.573A1.222 1.222 0 0 0 22 23.214zm0-1.222L15.889 0v6.111z"/>
+            <rect id="Rectangle_21574" width="12" height=".9" class="cls-3" rx=".45" transform="translate(5 11.25)"/>
+            <rect id="Rectangle_21575" width="12" height=".9" class="cls-3" rx=".45" transform="translate(5 14.25)"/>
+            <rect id="Rectangle_21576" width="12" height=".9" class="cls-3" rx=".45" transform="translate(5 17.25)"/>
+        </g>
+    </g>
+</svg>

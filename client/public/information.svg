@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.001" height="16" viewBox="0 0 16.001 16">
+    <defs>
+        <style>
+            .cls-1{fill:#6e7a93}
+        </style>
+    </defs>
+    <g id="Group_23490" data-name="Group 23490" transform="translate(-1106 -1171)">
+        <g id="W_Icons_Info" data-name="W/Icons/Info" transform="translate(1106 1171)">
+            <g id="Ellipse_1770" data-name="Ellipse 1770">
+                <path id="Path_23031" d="M300.555 420.03a8 8 0 1 1 8-8 8.01 8.01 0 0 1-8 8zm0-14.452a6.452 6.452 0 1 0 6.452 6.452 6.459 6.459 0 0 0-6.452-6.452z" class="cls-1" data-name="Path 23031" transform="translate(-292.554 -404.03)"/>
+            </g>
+            <g id="Path_23029" data-name="Path 23029" transform="translate(7.251 6.953)">
+                <path id="Path_23032" d="M300.3 416.152a.75.75 0 0 1-.75-.75v-4a.75.75 0 0 1 1.5 0v4a.75.75 0 0 1-.75.75z" class="cls-1" data-name="Path 23032" transform="translate(-299.555 -410.652)"/>
+            </g>
+            <g id="Path_23030" data-name="Path 23030" transform="translate(7.255 4.35)">
+                <path id="Path_23033" d="M300.313 409.73a.754.754 0 0 1-.754-.75.746.746 0 0 1 .745-.75h.009a.75.75 0 0 1 0 1.5z" class="cls-1" data-name="Path 23033" transform="translate(-299.559 -408.23)"/>
+            </g>
+        </g>
+    </g>
+</svg>

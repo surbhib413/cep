@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <defs>
+        <style>
+            .cls-3{fill:#79e2f3}.cls-4{fill:#005aac}.cls-6{fill:#0369dd}
+        </style>
+    </defs>
+    <g id="Group_29962" transform="translate(-640 -420)">
+        <path id="Path_25909" fill="#79e2f3" d="M50 0A50 50 0 1 1 0 50 50 50 0 0 1 50 0z" opacity="0.201" transform="translate(640 420)"/>
+        <g id="Group_29961" transform="translate(667.578 443.639)">
+            <g id="W_Illustrations_Proprietorship">
+                <g id="copyright">
+                    <path id="Path_23047" fill="#79f3c1" d="M65.187 0l9.122 9.089v40.9a2.732 2.732 0 0 1-2.737 2.727H36V0z" transform="translate(-32.347)"/>
+                    <g id="Group_23311">
+                        <path id="Path_23048" d="M292 0v9.089h9.122z" class="cls-3" transform="translate(-259.157)"/>
+                        <path id="Path_23049" d="M43.221 414.362a2.732 2.732 0 0 1-2.737-2.727V408H4v3.636a2.732 2.732 0 0 0 2.737 2.727h36.484z" class="cls-3" transform="translate(-3.996 -361.645)"/>
+                    </g>
+                    <path id="Path_23055" d="M68 104h15.5v2.109H68z" class="cls-4" transform="translate(-60.698 -96.243)"/>
+                    <path id="Path_23092" d="M68 104h15.5v2.109H68z" class="cls-4" transform="translate(-60.699 -87.891)"/>
+                    <path id="Path_23093" d="M68 104h24.91v2.109H68z" class="cls-4" transform="translate(-60.699 -79.539)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_30003" transform="translate(698 420)">
+            <g id="Ellipse_2259" fill="#acebfd" stroke="#fff" stroke-width="4px">
+                <circle cx="21" cy="21" r="21" stroke="none"/>
+                <circle cx="21" cy="21" r="19" fill="none"/>
+            </g>
+            <g id="Group_29817" transform="translate(12 12)">
+                <g id="Line_1670" transform="translate(0 7.305)">
+                    <path id="Path_23036" d="M305.719 405.9h-14.608a1.6 1.6 0 1 1 0-3.2h14.608a1.6 1.6 0 1 1 0 3.2z" class="cls-6" transform="translate(-289.513 -402.704)"/>
+                </g>
+                <g id="Line_1670-2" transform="rotate(-90 12.555 5.25)">
+                    <path id="Path_23036-2" d="M16.206 3.2H1.6a1.6 1.6 0 1 1 0-3.2h14.606a1.6 1.6 0 1 1 0 3.2z" class="cls-6"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

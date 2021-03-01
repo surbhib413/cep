@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="ATM" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#6e7b93;stroke-width:1.5px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <path id="Rectangle_21668" d="M0 0H20V20H0z" class="cls-1"/>
+    <g id="Group_32195" transform="translate(-450 -5590)">
+        <g id="Group_32194" transform="translate(-25 43)">
+            <g id="Rectangle_21968" class="cls-2" transform="translate(479.094 5549)">
+                <rect width="12.565" height="13.288" class="cls-5" rx="1"/>
+                <rect width="11.065" height="11.788" x=".75" y=".75" class="cls-1" rx=".25"/>
+            </g>
+            <g id="Rectangle_21969" class="cls-2" transform="translate(477 5561.173)">
+                <rect width="16.682" height="3.827" class="cls-5" rx="1"/>
+                <rect width="15.182" height="2.327" x=".75" y=".75" class="cls-1" rx=".25"/>
+            </g>
+        </g>
+        <path id="Path_27613" fill="#6e7b93" stroke="#6e7b93" stroke-width="0.2px" d="M-2.316 0l-.207-.68h-1.041l-.207.68h-.652l1.008-2.867h.74L-1.664 0zm-.352-1.187q-.287-.924-.323-1.045t-.052-.191q-.064.25-.369 1.236zM-.2 0h-.609v-2.352h-.775v-.5H.572v.5H-.2zm2.421 0l-.688-2.24h-.017q.037.684.037.912V0h-.541v-2.855h.824l.676 2.183h.012l.716-2.183h.824V0H3.5v-1.352-.221q0-.121.026-.664h-.014L2.775 0z" transform="translate(460.521 5602)"/>
+        <path id="Path_27614" fill="none" stroke="#6e7b93" stroke-linecap="round" stroke-width="1.5px" d="M1874.564 11299.234h4.559" transform="translate(-1416.602 -5703)"/>
+    </g>
+</svg>

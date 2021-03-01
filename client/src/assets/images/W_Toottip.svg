@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="273" height="116" viewBox="0 0 273 116">
+    <defs>
+        <filter id="BG" width="273" height="116" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dx="1.113" dy="7.922"/>
+            <feGaussianBlur result="blur" stdDeviation="11"/>
+            <feFlood flood-color="#040505" flood-opacity=".2"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="W_Toottip" data-name="W/Toottip" transform="translate(31.887 25.078)">
+        <g id="Group_23346" data-name="Group 23346" filter="url(#BG)" transform="translate(-31.89 -25.08)">
+            <rect id="BG-2" width="207" height="50" fill="#354463" data-name="BG" rx="3" transform="translate(31.89 25.08)"/>
+        </g>
+        <text id="Enter_Transaction_Reference_No._received_at_the_Retail_Outlet" fill="#fff" data-name="Enter Transaction Reference No. received at the Retail Outlet" font-family="OpenSans-Regular, Open Sans" font-size="12px" transform="translate(13 22)">
+            <tspan x="0" y="0">Enter Transaction Reference No.</tspan><tspan x="0" y="16">received at the Retail Outlet</tspan>
+        </text>
+    </g>
+</svg>

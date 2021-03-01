@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_Tick" width="20" height="20" data-name="W/Icons/Tick" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#00b782;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21140" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 21140"/>
+    <g id="check-circle" transform="translate(0 .006)">
+        <path id="Path_23154" d="M18 9.262V10a8 8 0 1 1-4.744-7.312" class="cls-2" data-name="Path 23154"/>
+        <path id="Path_23155" d="M18.692 4l-7.455 7.463L9 9.226" class="cls-2" data-name="Path 23155" transform="translate(-.692)"/>
+    </g>
+</svg>

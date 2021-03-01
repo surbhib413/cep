@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_PhysicalCard" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:#6e7a93}
+        </style>
+    </defs>
+    <path id="Rectangle_21839" fill="rgba(255,255,255,0)" d="M0 0H24V24H0z"/>
+    <g id="credit-card" transform="translate(1 4)">
+        <g id="Group_31067">
+            <g id="Group_31066">
+                <path id="Path_26686" d="M19.643 68.267H2.357A2.357 2.357 0 0 0 0 70.624v11a2.357 2.357 0 0 0 2.357 2.357h17.286A2.357 2.357 0 0 0 22 81.624v-11a2.357 2.357 0 0 0-2.357-2.357zm.786 13.357a.786.786 0 0 1-.786.786H2.357a.786.786 0 0 1-.786-.786V73.91h18.858zm0-9.429H1.571v-1.571a.786.786 0 0 1 .786-.786h17.286a.786.786 0 0 1 .786.786V72.2z" class="cls-2" transform="translate(0 -68.267)"/>
+            </g>
+        </g>
+        <g id="Group_31069" transform="translate(14.153 10.216)">
+            <g id="Group_31068">
+                <path id="Path_26687" d="M311.122 290.133h-3.139a.785.785 0 0 0 0 1.569h3.139a.785.785 0 0 0 0-1.569z" class="cls-2" transform="translate(-307.199 -290.133)"/>
+            </g>
+        </g>
+    </g>
+</svg>

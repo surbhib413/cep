@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <g id="Group_31639" transform="translate(272 5468) translate(-272 -5468)">
+        <path id="Rectangle_21937" fill="rgba(255,255,255,0)" d="M0 0H20V20H0z"/>
+        <g id="flag">
+            <path id="Path_26828" d="M4 12.4s.8-.8 3.2-.8 4 1.6 6.4 1.6 3.2-.8 3.2-.8V2.8s-.8.8-3.2.8S9.6 2 7.2 2 4 2.8 4 2.8z" class="cls-2"/>
+            <path id="Line_1715" d="M0 5.6L0 0" class="cls-2" transform="translate(4 12.4)"/>
+        </g>
+    </g>
+</svg>

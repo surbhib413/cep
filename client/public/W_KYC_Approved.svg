@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30" viewBox="0 0 150 30">
+    <g>
+        <text fill="#47b260" font-family="OpenSans-Bold, Open Sans" font-size="12px" font-weight="700" letter-spacing="0.009em" transform="translate(75 19.5)">
+            <tspan x="-32.49" y="0">APPROVED</tspan>
+        </text>
+        <g transform="translate(-513.917 -205.594)">
+            <ellipse cx="5.566" cy="6.131" fill="#fff" rx="5.566" ry="6.131" transform="translate(531.505 212.912)"/>
+            <path fill="#47b260" d="M540.21 419.61a10 10 0 1 1-10-10 10 10 0 0 1 10 10zm-11.156 5.29l7.418-7.418a.645.645 0 0 0 0-.913l-.913-.906a.643.643 0 0 0-.912 0l-6.05 6.05-2.825-2.832a.647.647 0 0 0-.913 0l-.913.918a.647.647 0 0 0 0 .913l4.194 4.193a.645.645 0 0 0 .913 0z" transform="translate(8.707 -199.012)"/>
+        </g>
+    </g>
+</svg>

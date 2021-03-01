@@ -1,0 +1,182 @@
+.mainGridContainer {
+  background-color: #fff;
+  display: flex;
+  @media (max-width: 600px) {
+    display:block;
+  }
+}
+ 
+@media screen and (min-width: 768px) {
+  .mainGridContainer {
+    display: flex;
+    // height: 100vh;
+  }
+  .contentContainer {
+    padding-left: 40px;
+  }
+}
+
+// ADDRESS
+// START
+
+
+.address {
+
+ 
+  font-size: 20px;
+  font-weight: bold;
+  
+  }
+  
+.headerDivider {
+  background-color: #eee;
+  border: 0 none;
+  color: #eee;
+  height: 2px;
+  margin: 12px 0;
+}
+.registeraddress{
+ 
+  width: 617px;
+  height: 54px;
+  margin-left: 16px;
+  // margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 13.5px 75px 10.5px 12px;
+  border-radius: 4px;
+  background-color: var(--pale-grey);
+  font-family: "Open Sans";
+  font-size: 14px;
+  color: #354463;
+  background-color: #eff1f6;    
+    @media (max-width: 600px) { 
+      margin-right: 20px;
+      height: 52px;
+      padding: 7.5px 17px;
+      border-radius: 4px;
+      
+      }
+}
+
+.regaddress{  
+  width: 134px;
+  height: 19px;
+  margin: 16px 166px 16px 20px;
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: left;
+  color: #354463;
+  @media (max-width: 600px) {
+    // margin: 16px 166px 16px 20px;
+    margin-left: 20px;
+    }
+}
+
+.corraddress{
+  
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 16px;
+  color:#354463;
+  
+}
+.cardaddress{
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 16px;
+  color:#354463;
+  
+}
+.editicon{
+  margin-left: 20px;
+  @media (max-width: 600px) {
+    // float: right;
+    margin-left:150px;
+    // margin-top: 2px;
+    }
+}
+
+  
+
+
+
+// ADDRESS
+// END
+
+
+.addressMobileShowForm {
+  display:block;
+  @media (max-width: 600px) {
+    width: 360px;
+    height: 1269px;
+    padding: 0 0 32px;
+    // background-color: #ffffff;
+  }
+}
+
+
+
+.backIcon{
+  display:none;
+  margin: 14px 18px 18px 3px;
+  @media (max-width: 600px) {
+    display:inline;
+  }
+}
+
+.mobileSideBar{
+  display:block;
+  @media (max-width: 600px) {
+    display:none;
+  }
+}
+
+.backToMyProfile {
+  cursor: pointer;
+  // min-width: 50px;
+}
+
+.secDivider {
+  height: 2px;
+  // background-color: #cddae0;
+//   width: 320px;
+// height: 0;
+margin: 16px 20px 0;
+// border: solid 1.5px #cddae0;
+}
+
+.padTop{
+  padding-top: 25px;
+  // padding-left: 10px;
+  // padding-right: 10px;
+}
+.actionBtns {
+  float: right;
+  margin-top: 40px;
+}
+
+@media screen and (max-width: 600px) {
+  .actionBtns {
+    float: none;
+    display: flex;
+    margin-top: 10px;
+  }
+  .actionBtns span{
+    display: flex;
+    width: 100%;
+  }
+  .actionBtns {
+    margin-top: 10px;
+  }
+}

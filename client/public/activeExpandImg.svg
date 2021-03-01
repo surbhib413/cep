@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="OverFlow_Icon" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:#0369dd}
+        </style>
+    </defs>
+    <path id="Rectangle_21631" fill="none" d="M0 0H20V20H0z"/>
+    <g id="Group_30004" transform="translate(-496 -9941)">
+        <circle id="Ellipse_2260" cx="2" cy="2" r="2" class="cls-2" transform="translate(504 9943)"/>
+        <circle id="Ellipse_2261" cx="2" cy="2" r="2" class="cls-2" transform="translate(504 9949)"/>
+        <circle id="Ellipse_2262" cx="2" cy="2" r="2" class="cls-2" transform="translate(504 9955)"/>
+    </g>
+</svg>

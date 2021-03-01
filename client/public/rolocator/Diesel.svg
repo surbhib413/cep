@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Diesel" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_30676">
+        <path id="Rectangle_21735" d="M0 0H20V20H0z" class="cls-1"/>
+    </g>
+    <g id="Group_31039" opacity="0.999" transform="translate(3.333 1.666)">
+        <g id="fuel">
+            <g id="Group_31034">
+                <g id="Group_31033">
+                    <path id="Path_26095" fill="#0369dd" stroke="#0369dd" stroke-width="0.5px" d="M61.8 0h-3.943l-1.949 3.9h-1.161V1.949h-2.924V3.96a1.953 1.953 0 0 0-1.462 1.888v8.869a1.952 1.952 0 0 0 1.949 1.949h9.49a1.952 1.952 0 0 0 1.949-1.949V1.949A1.952 1.952 0 0 0 61.8 0zm-9 2.924h.975V3.9H52.8zm9.977 11.793a.976.976 0 0 1-.975.975H52.31a.976.976 0 0 1-.975-.975V5.848a.976.976 0 0 1 .975-.975h4.2l1.949-3.9H61.8a.976.976 0 0 1 .975.975v12.769z" transform="translate(-50.361)"/>
+                </g>
+            </g>
+            <g id="Rectangle_21775" fill="none" stroke="#0369dd" stroke-linejoin="round" stroke-width="1.7px">
+                <path stroke="none" d="M0 0H5.322V7H0z" transform="translate(4 6.692)"/>
+                <path d="M0.85 0.85H4.4719999999999995V6.1499999999999995H0.85z" class="cls-1" transform="translate(4 6.692)"/>
+            </g>
+        </g>
+        <path id="Path_26098" fill="none" stroke="#0369dd" stroke-width="1.6px" d="M7.938 7.768h9.53" transform="translate(-4.145 -3.433)"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Dhaba" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21663" fill="none" d="M0 0H20V20H0z"/>
+    <g id="noun_Restaurant_3199482" transform="translate(-9 -6.249)">
+        <path id="Path_25527" d="M8.294 24.1v-7.443h.582a.4.4 0 0 0 .4-.4v-2.824a8.426 8.426 0 0 0-2.6-6.072.389.389 0 0 0-.427-.079.4.4 0 0 0-.249.363V24.1a1.147 1.147 0 1 0 2.294 0z" class="cls-2" transform="translate(6)"/>
+        <path id="Path_25528" d="M42.946 7.251c-1.606 0-2.726 2.025-2.726 3.845a3.22 3.22 0 0 0 1.58 2.991V24.1a1.145 1.145 0 1 0 2.29 0V14.087a3.225 3.225 0 0 0 1.581-2.987c0-1.824-1.119-3.849-2.725-3.849z" class="cls-2" transform="translate(-19.606 -.001)"/>
+    </g>
+</svg>

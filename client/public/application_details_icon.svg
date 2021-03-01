@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_35_Application_Details" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:none}.cls-3{stroke:#354463;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <path id="Rectangle_21626" d="M0 0H35V35H0z" class="cls-1"/>
+    <g id="Group_29948" transform="translate(-337 -264)">
+        <circle id="Ellipse_2253" cx="17.5" cy="17.5" r="17.5" fill="#dfe5ed" transform="translate(337 264)"/>
+        <g id="Group_29867" transform="translate(-263 83)">
+            <g id="Group_29862" transform="translate(609 190)">
+                <path id="Rectangle_21610" d="M0 0H18V18H0z" class="cls-1"/>
+                <g id="file-text" transform="translate(2.455)">
+                    <path id="Path_25903" d="M12.182 2H5.636A1.636 1.636 0 0 0 4 3.636v13.091a1.636 1.636 0 0 0 1.636 1.636h9.818a1.636 1.636 0 0 0 1.636-1.636V6.909z" class="cls-3" transform="translate(-4 -2)"/>
+                    <path id="Path_25904" d="M14 2v4.909h4.909" class="cls-3" transform="translate(-5.818 -2)"/>
+                    <path id="Line_1696" d="M6.545 0L0 0" class="cls-3" transform="translate(3.273 9)"/>
+                    <path id="Line_1697" d="M6.545 0L0 0" class="cls-3" transform="translate(3.273 12.273)"/>
+                    <path id="Path_25905" d="M9.636 9H8" class="cls-3" transform="translate(-4.727 -3.273)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

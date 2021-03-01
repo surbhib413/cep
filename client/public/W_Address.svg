@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Profile_Nav-tile_Address" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#0269dd;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <rect id="Rectangle_21762" width="36" height="36" fill="rgba(3,105,221,0.1)" rx="4"/>
+    <g id="W_Icon_Location" transform="translate(7 7)">
+        <path id="Rectangle_21581" fill="none" d="M0 0H22V22H0z"/>
+        <g id="map-pin" transform="translate(3.9 2.2)">
+            <path id="Path_25696" d="M17.4 8.2c0 5.6-7.2 10.4-7.2 10.4S3 13.8 3 8.2a7.2 7.2 0 1 1 14.4 0z" class="cls-3" transform="translate(-2.9 -1)"/>
+            <circle id="Ellipse_2271" cx="2.4" cy="2.4" r="2.4" class="cls-3" transform="translate(5 4.8)"/>
+        </g>
+    </g>
+</svg>

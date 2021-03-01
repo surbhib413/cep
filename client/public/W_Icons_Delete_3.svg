@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_Delete" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#0369dd;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21128" fill="none" d="M0 0H24V24H0z"/>
+    <g id="trash-2_1_" transform="translate(3.6 2.4)">
+        <path id="Path_23121" d="M3 6h16.8" class="cls-2" transform="translate(-3 -2.267)"/>
+        <path id="Path_23122" d="M18.067 5.733V18.8a1.867 1.867 0 0 1-1.867 1.867H6.867A1.867 1.867 0 0 1 5 18.8V5.733m2.8 0V3.867A1.867 1.867 0 0 1 9.667 2H13.4a1.867 1.867 0 0 1 1.867 1.867v1.866" class="cls-2" transform="translate(-3.133 -2)"/>
+        <path id="Line_1674" d="M0 0L0 5.6" class="cls-2" transform="translate(6.533 8.4)"/>
+        <path id="Line_1675" d="M0 0L0 5.6" class="cls-2" transform="translate(10.267 8.4)"/>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <defs>
+        <style>
+            .cls-3{fill:#79e2f3}.cls-4{fill:#005aac}
+        </style>
+    </defs>
+    <g id="Group_29962" transform="translate(-640 -420)">
+        <path id="Path_25909" fill="#79e2f3" d="M50 0A50 50 0 1 1 0 50 50 50 0 0 1 50 0z" opacity="0.201" transform="translate(640 420)"/>
+        <g id="Group_29961" transform="translate(667.578 443.639)">
+            <g id="W_Illustrations_Proprietorship">
+                <g id="copyright">
+                    <path id="Path_23047" fill="#79f3c1" d="M65.187 0l9.122 9.089v40.9a2.732 2.732 0 0 1-2.737 2.727H36V0z" transform="translate(-32.347)"/>
+                    <g id="Group_23311">
+                        <path id="Path_23048" d="M292 0v9.089h9.122z" class="cls-3" transform="translate(-259.157)"/>
+                        <path id="Path_23049" d="M43.221 414.362a2.732 2.732 0 0 1-2.737-2.727V408H4v3.636a2.732 2.732 0 0 0 2.737 2.727h36.484z" class="cls-3" transform="translate(-3.996 -361.645)"/>
+                    </g>
+                    <path id="Path_23055" d="M68 104h20.065v2.109H68z" class="cls-4" transform="translate(-60.698 -96.243)"/>
+                    <path id="Path_23092" d="M68 104h15.5v2.109H68z" class="cls-4" transform="translate(-60.699 -87.891)"/>
+                    <path id="Path_23093" d="M68 104h10.425v2.109H68z" class="cls-4" transform="translate(-60.699 -79.539)"/>
+                </g>
+            </g>
+            <g id="Group_29960" transform="translate(16.044 13.703)">
+                <circle id="Ellipse_2257" cx="10.4" cy="10.4" r="10.4" fill="#fff" transform="translate(2.227 2.23)"/>
+                <path id="Rectangle_21634" fill="#ebebeb" d="M0 0H3.797V11.049H0z" opacity="0.978" transform="rotate(-32.75 48.078 -17.38)"/>
+                <path id="Rectangle_21635" fill="#24285b" d="M0 0H5.851V14.218H0z" transform="rotate(-33 60.168 -19.94)"/>
+                <path id="Path_25910" fill="#fdd15b" d="M291.624 53.415a12.471 12.471 0 1 0 17.251 3.669 12.471 12.471 0 0 0-17.251-3.669zM303.2 71.261a4.094 4.094 0 1 1 .012 0z" transform="translate(-285.942 -51.402)"/>
+            </g>
+        </g>
+    </g>
+</svg>

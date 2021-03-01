@@ -1,0 +1,37 @@
+.appBarContainer {
+    background-color: white;
+    border: solid 1px #cddae0;
+    height: 55px;
+    .searchContainer {
+        width: 330px;
+        .searchTextInput {
+            color: black;
+            width: 330px;
+            font-weight: 600;
+            margin-left: 9px;
+        }
+        .FuelServicesMenuContainer {
+            height: 100%;
+        }
+        .LanguageMenuContainer {
+            height: 100%;
+        }
+        .HelpMenuContainer {
+            height: 100%;
+        }
+    }
+    .cursorPointer {
+        cursor: pointer;
+    }
+
+    .labelStyle {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .disableLabelStyle {
+        font-size: 14px;
+        font-weight: 600;
+        color: #bbc2d0;
+    }
+}

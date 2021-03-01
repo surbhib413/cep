@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="WM_Illus-B2B_Reset-pass" width="134.217" height="125" viewBox="0 0 134.217 125">
+    <defs>
+        <style>
+            .cls-2{fill:#7abbf2}.cls-3{fill:#005cad}.cls-4{fill:#00305a}.cls-7{fill:#08f}.cls-9{fill:#fff}
+        </style>
+    </defs>
+    <path id="Path_23046" fill="#daf5fd" d="M62.5 0A62.5 62.5 0 1 1 0 62.5 62.5 62.5 0 0 1 62.5 0z" transform="translate(4.932)"/>
+    <path id="Path_1521" d="M6.643 250.213H127.4c3.767 0 6.821 2.324 6.821 5.19v2.052c0 3.56-3.793 6.445-8.471 6.445H7.725C3.457 263.9 0 261.267 0 258.019v-2.755c0-2.792 2.974-5.054 6.643-5.054z" class="cls-2" transform="translate(0 -154.559)"/>
+    <path id="Path_23404" d="M307.095 582.68s1.617 14.884 11.156 19.846H279.61c9.539-4.961 11.156-19.846 11.156-19.846z" class="cls-3" transform="translate(-230.955 -509.987)"/>
+    <path id="Path_23462" d="M0 0h38.64v3.116H0z" class="cls-4" transform="translate(48.656 92.536)"/>
+    <path id="Path_23406" d="M204.2 137.387h-86.98V90.4a1.135 1.135 0 0 1 1.138-1.133h84.7A1.135 1.135 0 0 1 204.2 90.4z" class="cls-3" transform="translate(-93.566 -68.662)"/>
+    <path id="Path_23407" d="M202.124 553.027h-82.743a2.111 2.111 0 0 1-2.111-2.111v-5.826h86.97v5.82a2.111 2.111 0 0 1-2.117 2.117z" class="cls-4" transform="translate(-93.611 -476.365)"/>
+    <rect id="Rectangle_21122" width="80.707" height="41.766" class="cls-2" rx="1" transform="translate(27.059 23.583)"/>
+    <path id="Path_1470" fill="#08f" d="M91.558 248.912s-8.523-2.29-10.408-10.206c0 0 13.182-2.727 13.61 10.907z" opacity="0.58" transform="translate(23.896 -163.863)"/>
+    <path id="Path_1471" fill="#08f" d="M95.016 245.621s-5.983-9.349-.779-18.191c0 0 10.058 6.326 5.648 18.191z" opacity="0.73" transform="translate(21.477 -161.421)"/>
+    <path id="Path_1472" d="M97.81 247.415s3.116-9.949 12.6-11.865c0 0 1.807 6.443-6.1 11.865z" class="cls-7" transform="translate(20.217 -163.215)"/>
+    <path id="Path_1473" fill="#24285b" d="M89.89 250.53l1.768 11.795h10.876l1.55-11.795z" transform="translate(21.967 -166.525)"/>
+    <g id="Group_23412" transform="translate(44.539 37.992)">
+        <path id="Path_23463" d="M492.319 289.272c-.254 0-.46.129-.46.289v11.931c0 .159.206.288.46.289h44.039c.254 0 .46-.129.46-.289V289.56c0-.159-.206-.288-.46-.289z" class="cls-9" transform="translate(-491.859 -289.272)"/>
+    </g>
+    <g id="Dots" transform="translate(50.1 43)">
+        <circle id="Ellipse_2182" cx="1.25" cy="1.25" r="1.25" class="cls-4"/>
+        <circle id="Ellipse_2183" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(4)"/>
+        <circle id="Ellipse_2184" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(8)"/>
+        <circle id="Ellipse_2185" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(12)"/>
+        <circle id="Ellipse_2186" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(16)"/>
+        <circle id="Ellipse_2187" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(20)"/>
+        <circle id="Ellipse_2188" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(24)"/>
+        <circle id="Ellipse_2189" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(28)"/>
+        <circle id="Ellipse_2190" cx="1.25" cy="1.25" r="1.25" class="cls-4" transform="translate(32)"/>
+    </g>
+    <ellipse id="Ellipse_2191" cx="24.371" cy="23.951" class="cls-7" rx="24.371" ry="23.951" transform="translate(6.807 47.902)"/>
+    <g id="key" transform="rotate(180 21.375 41.761)">
+        <path id="Path_23464" d="M21.287 11.078a6.489 6.489 0 1 0-10.136-1.219L0 21.01l2.178 2.178 1.31-1.31L4.911 23.3l2.014-2.014L5.5 19.863l2.086-2.086L9.011 19.2l2.014-2.014L9.6 15.763l3.727-3.727a6.491 6.491 0 0 0 7.958-.958zm-4.375-4.8a1.672 1.672 0 1 1 2.364 0 1.672 1.672 0 0 1-2.364-.002z" class="cls-9"/>
+        <path id="Path_23465" d="M12.24 10.135l-3.727 3.728 1.423 1.423L7.922 17.3 6.5 15.877l-2.087 2.085 1.423 1.423L3.822 21.4 2.4 19.976l-1.31 1.31L0 20.2 15.823 4.375a1.672 1.672 0 0 0 2.364-2.364L20.2 0a6.49 6.49 0 0 1-7.96 10.135z" class="cls-9" transform="translate(1.089 1.901)"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icon_Password-Eye" width="20" height="20" data-name="W/Icon/Password-Eye" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#6e7a93;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <g id="eye" transform="translate(-2 -2)">
+        <path id="Rectangle_21111" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 21111" transform="translate(2 2)"/>
+        <path id="Path_23106" d="M1 10.545S4.273 4 10 4s9 6.545 9 6.545-3.273 6.545-9 6.545-9-6.545-9-6.545z" class="cls-2" data-name="Path 23106" transform="translate(2 1.5)"/>
+        <circle id="Ellipse_1772" cx="2" cy="2" r="2" class="cls-2" data-name="Ellipse 1772" transform="translate(10 10)"/>
+    </g>
+</svg>

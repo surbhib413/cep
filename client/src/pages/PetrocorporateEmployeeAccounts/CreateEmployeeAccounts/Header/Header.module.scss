@@ -1,0 +1,24 @@
+.cursorPointer {
+  cursor: pointer;
+}
+
+.customButton1 {
+  border-radius: 4px 0 0 4px !important;
+  @media only screen and (max-width: 576px) {
+    flex: 1;
+  }
+}
+
+.customButton2 {
+  border-radius: 0 4px 4px 0 !important;
+  @media only screen and (max-width: 576px) {
+    flex: 1;
+  }
+}
+.cursorPointerNone {
+  cursor: none;
+}
+/* .text {
+  color: #eff1f6;
+  font-size: 14px;
+} */

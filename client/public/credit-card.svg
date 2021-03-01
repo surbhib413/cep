@@ -1,0 +1,11 @@
+<svg id="Card_Icon_Default" data-name="Card Icon_Default" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Credit_Management" data-name="Credit Management">
+    <rect id="Rectangle_21191" data-name="Rectangle 21191" width="24" height="24" fill="none"/>
+    <g id="credit-card" transform="translate(1.2 3.6)">
+      <rect id="Rectangle_21190" data-name="Rectangle 21190" width="21.6" height="16.8" rx="2" transform="translate(0 0)" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="Line_1678" data-name="Line 1678" x2="21.6" transform="translate(0 6.3)" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    </g>
+  </g>
+  <path id="Path_25453" data-name="Path 25453" d="M3247.8,4003.093h7.668" transform="translate(-3241.843 -3986.188)" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-width="1.4"/>
+  <path id="Path_25454" data-name="Path 25454" d="M3247.8,4002.405h3.041" transform="translate(-3242.242 -3988.725)" fill="none" stroke="#6e7a93" stroke-linecap="round" stroke-width="1.4"/>
+</svg>

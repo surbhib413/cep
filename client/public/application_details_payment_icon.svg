@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_35_Application_Details" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-4{fill:none}.cls-3,.cls-4{stroke:#354463;stroke-linecap:round;stroke-width:1.4px}.cls-3{stroke-linejoin:round}
+        </style>
+    </defs>
+    <path id="Rectangle_21626" d="M0 0H35V35H0z" class="cls-1"/>
+    <g id="Group_29948" transform="translate(-337 -264)">
+        <circle id="Ellipse_2253" cx="17.5" cy="17.5" r="17.5" fill="#dfe5ed" transform="translate(337 264)"/>
+        <g id="W_Icon_Credit_Mgmnt" transform="translate(346 273)">
+            <g id="Credit_Management">
+                <path id="Rectangle_21191" d="M0 0H18V18H0z" class="cls-1"/>
+                <g id="credit-card" transform="translate(.9 2.7)">
+                    <rect id="Rectangle_21190" width="16.2" height="12.6" class="cls-3" rx="2"/>
+                    <path id="Line_1678" d="M0 0L16.2 0" class="cls-3" transform="translate(0 4.725)"/>
+                </g>
+            </g>
+            <path id="Path_25453" d="M3247.8 4003.093h7.668" class="cls-4" transform="translate(-3244.033 -3990.414)"/>
+            <path id="Path_25454" d="M3247.8 4002.405h3.041" class="cls-4" transform="translate(-3243.834 -3992.145)"/>
+        </g>
+    </g>
+</svg>

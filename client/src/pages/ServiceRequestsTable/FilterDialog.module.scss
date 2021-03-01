@@ -1,0 +1,44 @@
+.inputBackground {
+  background-color: #eff7ff;
+}
+.calanderContainer {
+  position: absolute;
+  z-index: 20;
+  left: 50px;
+  top: 215px;
+  box-shadow: 0 7px 25px 0 rgba(144, 144, 144, 0.23);
+  @media only screen and (max-width: 576px) {
+    flex-direction: column-reverse;
+    width: 100%;
+    left: 0px;
+    padding-bottom: 10px;
+  }
+  .definedRanges {
+    width: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-color: #cddae0;
+    @media only screen and (max-width: 576px) {
+      width: 100%;
+      border-right: none;
+    }
+  }
+  .rdrDateRangePickerWrapper {
+    padding: 0px 20px;
+    @media only screen and (max-width: 576px) {
+      padding: 0;
+    }
+  }
+}
+.calendarIcon {
+  width: 28px;
+}
+
+.dialogContent {
+  height: 490px;
+}
+
+.gridHeight {
+  height: 35px;
+}

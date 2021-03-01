@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="W_Icons_Warning" width="20" height="20" data-name="W/Icons/Warning" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#e02836;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.75px}
+        </style>
+    </defs>
+    <path id="Rectangle_21139" fill="none" d="M0 0H20V20H0z" data-name="Rectangle 21139"/>
+    <g id="alert-circle">
+        <circle id="Ellipse_1774" cx="8" cy="8" r="8" class="cls-2" data-name="Ellipse 1774" transform="translate(2 2)"/>
+        <path id="Line_1676" d="M0 0L0 4" class="cls-2" data-name="Line 1676" transform="translate(10 6.5)"/>
+        <path id="Line_1677" d="M0 0L0.01 0" class="cls-2" data-name="Line 1677" transform="translate(9.999 13.2)"/>
+    </g>
+</svg>
